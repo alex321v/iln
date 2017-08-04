@@ -4,11 +4,10 @@ import java.io.*;
 import java.util.*;
 import java.net.*;
 
-/* $Id: Risposte.java,v 1.4.2.1 2004/01/14 16:23:56 legrand Exp legrand $ */
 
 /**
  * Progetto ILN
- * Copyright (C) 2003 Monsieur Legrand
+ * Copyright (C) 2003-2017 Monsieur Legrand
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
@@ -34,8 +33,8 @@ import java.net.*;
  * conoscenza. <br>
  *
  * @author  Monsieur Legrand
- * @version 1.4 rev 4
- * @date    18 febbraio 2004 
+ * @version 1.5 rev 1
+ * @date    04 agosto 2017 
  */
 
 public class Risposte implements Animatore
@@ -94,7 +93,6 @@ public class Risposte implements Animatore
      * Costruttore.<br>
      *
      * @param nick     nickname proprio
-     * @param fileName Nome del file contenente la base di conoscenza
      * @param deb      booleano. True = debugMode, False altrimenti
      */
 
@@ -106,7 +104,7 @@ public class Risposte implements Animatore
     	        if (debug)
     	           log = new LogServer("strutt");
 
-    	        Collection transit = RobotUtils.leggeDati(nickName + "nomi");
+    	        Collection transit = RobotUtils.leggeDati("./resources/" + nickName + "nomi");
 		int i = 0;
 		Iterator it = transit.iterator();
                 //carica tutti i nomi/nickname già noti
@@ -133,9 +131,9 @@ public class Risposte implements Animatore
      */
     public String[] version(){
 	String[] risposta = {"************* Begin Info ****************",
-		            "ILN 1.4.3 beta in collaudo. AL MOMENTO INSTABILE",
+		            "ILN 1.5.1 beta in collaudo. AL MOMENTO INSTABILE",
 		            "Semplice riconoscitore automatico sperimentale di testi",
-		            "Compilato il 21 gennaio 2004",
+		            "Compilato il 05 agosto 2017",
 		            "A cura di Monsieur Legrand",
 		            "Automa in puro Java al 100% alla faccia di Micro$oft e all'anima di Bill Gates.",
 		            "tutto rilasciato sotto licenza GPL. Il codice sorgente e' disponibile per gli sviluppatori",
@@ -477,8 +475,8 @@ public class Risposte implements Animatore
     private void leggeStruttura(String fileName){
     	struttura = new Hashtable();
         motd = leggeMotd();
-	caricamento ("base", struttura);
-	caricamento (fileName, struttura);
+	caricamento ("./resources/base", struttura);
+	caricamento ("./resources/" + fileName, struttura);
     }
 
     /**
@@ -492,7 +490,7 @@ public class Risposte implements Animatore
 
     private String leggeMotd(){
 	    String risposta = new String();
-	    Collection raw = RobotUtils.leggeDati("motd");
+	    Collection raw = RobotUtils.leggeDati("./resources/motd");
 	    if (raw != null && raw.size()!=0){
 		    Iterator it = raw.iterator();
 		    risposta = (String)it.next();

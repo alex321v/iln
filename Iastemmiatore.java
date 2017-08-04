@@ -55,7 +55,7 @@ public class Iastemmiatore implements Animatore
 	public Iastemmiatore(){
 		Collection iastemmie;
 		//Invoca l'utility che legge da un file.
-		iastemmie = RobotUtils.leggeDati("IastemmiaFile");
+		iastemmie = RobotUtils.leggeDati("./resources/IastemmiaFile");
 		int i = 0;
 		Iterator it = iastemmie.iterator();
 		vettLette = new String[iastemmie.size()];

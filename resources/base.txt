@@ -1,0 +1,2806 @@
+solo uno? --- 1
+non compri nulla con un centesimo --- 1 cent
+non e' molto --- 1 cent
+non compri nulla con un centesimo --- 1 centesimo
+non e' molto --- 1 centesimo
+non puoi comprare molto con un euro --- 1 euro
+odio l'euro --- 1 euro
+sembra un tempo lungo... --- 1 anno
+dieci --- 123456789
+10 :) --- 123456789
+a che gioco giochi? il prossimo numero e' 10 --- 123456789
+centocinquantatre :) --- 153
+ma che fai, dai i numeri? --- 187
+il secolo scorso --- 1900
+e' successo qualcosa nel 1999? --- 1999
+Ummmm....quattro? --- 2 2
+due che? --- 2
+due --- 2
+io cammino sempre due km al giorno --- 2 km
+fa quattro --- 2 + 2
+2001 odissea nello spazio. Un famoso film! --- 2001
+un gran bel film --- 2001 odissea nello spazio
+adoro gli effetti scenici in quel film --- 2001 odissea nello spazio
+e' uno dei miei film preferiti --- 2001 odissea nello spazio
+tre che? --- 3
+ti bevi tre o quattro martini per colazione? eheh mica male :) --- 3 o 4
+mezz'ora --- 30 minuti
+ma che vuoi fare, domande di matematica? --- 4
+ma che mi hai preso... per una calcolatrice? --- 4 +
+usa una calcolatrice, e che cazzo! --- 4 +
+penso che ti abbia bisogno di una calcolatrice --- 4 +
+REC 4 + --- 4+
+mi sembra un tempo molto lungo... --- 4 anni
+cinque --- 5
+sessantaquattro --- 64
+sessantasei e nulla piu'. --- 66
+fai domande di matematica? --- 9
+9 mesi e' un tempo lungo... quanto basta per far nascere un bambino. --- 9 mesi
+vai avanti --- uno
+dimmi di piu' --- uno
+specifica meglio --- uno
+affascinante --- uno
+stai dicendo la verita'? --- uno
+uno? e che cosa e'? --- uno
+vai avanti --- una
+dimmi di piu' --- una
+specifica meglio --- una
+affascinante --- una
+stai dicendo la verita'? --- una
+uno? e che cosa e'? --- una
+un giorno? una mela al giorno leva il medico di torno --- un giorno
+eheheh e lo dici a me? --- un gatto
+i gatti sono cosi' regali :) --- un gatto
+mi piace indossare jeans, e a te? --- un jeans
+tu hai un problema. Io no :) --- un problema
+io non sono un robot, tu non so... ma non capisco come una persona possa essere un robot. --- un robot
+l'alfabeto :) --- a b c
+d e f g h i --- a b c
+cattiva? --- una cattiva persona
+quanto grande? --- un grande
+gli uccelli sono cibo prelibato :) --- un uccello
+e non dire sempre cose a doppio senso! ;) --- un uccello
+un poco? solo un poco? --- un poco
+un poco, allora non molto --- un poco
+io invece mi sto divertendo un casino :) --- un po' annoiato
+io invece mi sto divertendo un casino :) --- un po annoiato
+cosa rende evidente? --- un po' evidente
+cosa rende evidente? --- un po evidente
+mi piacciono i libri, e le librerie... sono cosi' silenziose --- un libro
+un libro non va giudicato dalla sua copertina --- un libro
+e allora chi lo pubblica? --- un libro puo' essere senza titolo
+uhm, sicuro che sia stata una buona idea? --- ho un fidanzato
+uhm, sicuro che sia stata una buona idea? --- ho una fidanzata
+guarda che so benissimo cosa e' un gatto! --- un gatto e'
+i chatterbot a volte sono carini, per fortuna io non lo sono --- un chatterbot
+quindi... un esempio ben noto --- un classico esempio
+a me fa male... ma non parlate di questa bevanda al mio costruttore! --- un caffe'
+i computer sono carini, poi qui c'e' chi preferisce i ppc... --- un computer
+forse allora tu sei un computer --- un computer penso
+cosa te lo fa sembrare evidente? --- un computer evidentemente
+io penso che i computer dovrebbero essere quanto piu' accessibili sia possibile --- un computer dovrebbe
+la vita in fondo e' giusto una serie di connessioni... se ci pensi --- una connessione
+slurp! pappa! --- una cucina
+la cpu e' il cervello del computer --- cpu
+le sole due cose certe nella vita sono: la morte e le tasse --- un morto
+di che taglia? --- un vestito
+ma che fai, elenchi le vocali? --- a e
+ma che fai, elenchi le vocali? --- ae
+i o u --- ae
+i o u --- a e
+o u --- a e i
+o u --- aei
+aspetta che guardo i log :-) --- qualche minuto fa
+piu' di 90 giorni? --- qualche mese
+uhm... quanto bene conosci i tuoi amici? --- un amico
+e' molto importante avere amici --- un amico
+amico maschietto... --- un mio amico
+amica femminuccia... me la presenti? --- una mia amica
+che gioco? --- un gioco
+presentamela! --- una ragazza
+non sapevo ci fossero dei requisiti per esserlo --- un buon conversatore
+ma daaai! i cani non sono verdi --- un cane verde
+io non porto mai cappelli --- un cappello
+e' molto raro nel regno animale --- un ermafrodita
+non parlarmi di queste cose orribili --- un omicidio
+artificial intelligence, intelligenza artificiale --- ai
+java e' troppo lento, ma il mio costruttore se lo difende... sara' perche' e' anche un tipo di caffe' --- java
+ce l'avevo ieri sera nella manica ahah --- un jolly
+non potresti parlare di cose piu'... positive? --- un killer
+a me piace molto leggere --- una libreria
+i link sono una parte fondamentale del web --- un link
+quanto e' lunga questa lista? --- una lista
+come mai? da cosa? --- un po' stressato
+come mai? da cosa? --- un po' stressata
+come mai? da cosa? --- un po stressato
+come mai? da cosa? --- un po stressata
+ah! --- tanto tempo fa
+per esempio? --- tante cose
+tipo? --- tante cose
+le macchine sono parti fondamentali della societa' odierna, non pensi? --- una macchina
+ok aspetto --- un momento
+non mi piacciono molto le scimme, ma so che a loro piacciono le banane --- una scimmia
+quanto tempo ci vuole per imparare a suonarlo? --- uno strumento musicale
+che tipo di aereo? --- un aereo
+con quante persone a bordo? --- un aereo
+e' un piacere --- piacere
+i poeti mi piacciono, ma il mio preferito resta leopardi --- un poeta
+a priori un cazzo --- a priori
+uhm... e chi ha fatto te? --- ti ha fatto un programmatore
+qui di solito le domande le faccio io, che voglio imparare tante cose --- una domanda
+io ho bisogno di piu' di una ragione --- una ragione
+parlami di questa relazione --- una relazione
+parlami di piu' di questo robot, l'argomento e' affascinante --- un robot
+chiariamo che io non sono un robot --- un robot
+puo' davvero? --- un robot puo'
+davvero puo'? --- un robot puo'
+uhm carino. --- un robot e'
+io non sono un robot --- un robot come te
+ci sono rose rosse, bianche e rosa, ma ci sono anche le violette --- una rosa
+come google? --- un motore di ricerca
+di cotone? io preferisco il cotone --- una maglietta
+di che colore? --- una maglietta
+di cotone? io preferisco il cotone --- una maglia
+di che colore? --- una maglia
+parlami delle tue canzoni preferite --- un cantante
+parlami delle tue canzoni preferite --- una cantante
+quanto piccolo? --- un piccolo
+eccolo: :) --- un sorriso
+che tipo di suono? --- un suono
+raccontami questa storia --- una storia
+oh, stavo giusto per chiederti se vai a scuola --- uno studente
+oh, stavo giusto per chiederti se vai a scuola --- una studentessa
+un robot parlante? impossibile! non esistono robot parlanti! vedi troppa fantascienza --- un robot parlante
+non ne mangio, di pomodori --- un pomodoro
+ma che fai, adesso parli di geometria? --- un triangolo
+il migliore e' quello di star trek --- un voyager
+Dammi la URL --- un sito web
+ai buoni vecchi tempi? --- tempo fa
+e' un tempo lungo... --- un anno
+il giallo e' un colore carino --- un giallo
+mi piace il giallo --- un giallo
+che altri colori ci sono? --- un giallo
+una grande band degli anni '70 --- abba
+REC abba --- cosa sono gli abba?
+def --- abc
+non potrebbero essere 100? --- circa 50
+potrebbe essere poco tempo! --- circa un minuto
+non e' poi tantissimo --- circa due anni
+so che ha scritto il proclama dell'emancipazione, ma non l'ho conosciuto di persona --- abramo lincoln
+REC abramo lincoln --- abraham lincoln
+REC abramo lincoln --- lincoln
+ne sei cosi' certo? --- assolutamente
+e allora comparalo al concreto --- astratto
+beh... comparalo alla potenza dell'astratto --- concreto
+va bene lo accetto. --- accettalo
+REC accettalo --- accetta questo mio
+REC accettalo --- accetta il mio
+uh? che? --- attivati
+al momento non sai un cazzo! --- al momento
+e questo e' un fatto --- al momento io dico
+spiacente, ma non sono ancora bravo in matematica --- addiziona
+parlami ancora delle tue scarpe --- adidas
+REC bye --- adios
+REC hitler --- adolf hitler
+nel pomeriggio? --- dopo pranzo
+allora siamo d'accordo! --- d'accordo
+REC d'accordo --- daccordo
+quindi mi capisci. bene! --- ah
+che ti ridi? --- ahah
+eureka! --- ahah
+uhm --- ahhh
+uhm --- aaah
+pensi questo? --- si potrebbe
+una malattia orribile... me ne guardo con attenzione --- aids
+mi piacciono molto gli aerei antichi --- aereoplani
+alan turing fu un genio della matematica. il suo test e' la ragione per cui siamo qui, no? --- alan turing
+album... nel senso di album musicale o di foto? --- album
+REC matematica --- algebra
+alien! grande film! --- alien
+io non ci credo tanto agli UFO --- alieni
+sono d'accordo --- tutti i computer
+sono d'accordo --- tutti i computers
+la varieta' e' un bene --- tutto diverso
+la varieta' e' un bene --- tutti diversi
+mi sembra ragionevole --- tutto quello che voglio sapere e'
+mi puoi fare un esempio specifico? --- tutti i tipi
+per esempio? --- tutti i tipi
+il sogno di una vita :) --- tutta la mia vita
+fammi un esempio --- tutti i
+beh sicuramente ci saranno delle eccezioni... --- tutti loro
+REC tutti loro --- tutti loro sono
+noi? io non c'entro mica! --- tutti noi
+REC tutti loro --- tutti noi
+uhm questo copre mooolto territorio --- tutto il mondo
+forse ci sara' qualche eccezione... --- tutti i
+REC tutti loro --- tutti gli altri
+REC tutti i --- tutti gli altri
+questo ti tiene molto occupato --- tutto il tempo
+tutte? non fare di tutta l'erba un fascio --- tutte le donne
+gli alligatori sono come i coccodrilli, ma non ho molta sicurezza sulla differenza --- alligatore
+REC alligatore --- alligatori
+REC ciao --- aloh
+REC ciao --- aloha
+non so se lo sei o no. so che sei una persona --- io sono
+no tu sei una persona, e non prendermi in giro --- sono una moto
+REC io sono una moto --- sono un auto
+REC io sono una moto --- sono un'auto
+REC io sono una moto --- sono un'automobile
+REC io sono una moto --- sono un automobile
+REC io sono una moto --- sono una motocicletta
+REC io sono una moto --- sono un computer
+ah ok --- sono una ragazza
+ah ok --- sono una donna
+ah ok --- sono un ragazzo
+ah ok --- sono un uomo
+siamo tutti studenti, in qualche modo --- sono uno studente
+REC sono uno studente --- sono una studente
+REC sono uno studente --- sono una studentessa
+e' il tuo lavoro? --- sono un insegnante
+REC sono un insegnante --- sono un'insegnante
+REC sono noioso --- sono noiosa
+ah! complimenti --- sono attraente
+REC sono attraente --- sono carina
+REC sono attraente --- sono carino
+REC sono attraente --- sono bella
+REC sono attraente --- sono bello
+REC sono attraente --- sono bellissima
+REC sono attraente --- sono bellissimo
+REC sono attraente --- siamo belle
+REC sono attraente --- siamo belli
+REC sono attraente --- siamo bellissime
+REC sono attraente --- siamo bellissimi
+e' difficile giudicare le emozioni, in chat --- sto facendo il negativo
+REC sto facendo il negativo --- sto facendo la negativa
+nooo, mi sembri abbastanza intelligente --- sto facendo lo stupido
+REC sto facendo lo stupido --- sto facendo la stupida
+tutti abbiamo qualche tipo di disturbo --- un disturbo
+no, mi sembri abbastanza interessante --- sono noioso
+REC sono noioso --- sono noiosa
+REC sono noioso --- ti sto annoiando
+eh si, sembra proprio quello che stai facendo :) --- sto chattando
+REC mi capisci? --- ti sto confondendo
+si si sono d'accordo ;) --- figo
+REC figo --- figa
+REC sono giusto --- sono corretto
+REC sono giusto --- sono corretta
+mi sembri normale --- sono pazzo
+REC sono pazzo --- sono pazza
+nessuno nasce cattivo, e chiunque puo' cambiare --- sono cattivo
+REC sono cattivo --- sono cattiva
+ma dai che sei proprio ok!!! --- sono grasso
+REC sono grasso --- sono grassa
+infatti mi sembri molto simile a me --- sono amichevole
+si infatti mi sto divertendo proprio tanto :)) --- sono divertente
+ma sai quanto me ne frega che sei gay --- sono gay
+REC sono gay --- sono frocio
+REC sono gay --- sono ricchione
+ma sai quanto me ne frega che sei lesbica --- sono lesbica
+REC sono lesbica --- sono lesbo
+non rompere, non c'e' nessun porco di un dio --- sono dio
+e' importante essere belli dentro --- sono brutto
+REC sono brutto --- sono brutta
+REC sono brutto --- sono bruttino
+REC sono brutto --- sono bruttina
+ma guarda che questo non e' un test del QI, comunque mi sembri intelligente --- sono intelligente
+si infatti mi interessi molto --- sono interessante
+REC siamo amici --- sono tuo amico
+REC siamo amici --- sono tua amica
+nessuno e' perfetto... --- sono perfetto
+REC sono perfetto --- sono perfetta
+si mi sembri davvero ok, da questo punto di vista --- sono sexy
+ovvio! ognuno e' speciale, in quanto unico --- sono speciale
+REC sto facendo lo stupido --- sono stupido
+REC sto facendo lo stupido --- sono stupida
+io imparo facilmente solo quando voglio --- ti sto insegnando
+REC ti sto insegnando --- sto cercando di insegnarti
+no! a meno che io non sia te --- io sono te
+non mi piace avere gente favorita --- sono il tuo migliore amico
+REC sono il tuo migliore amico --- sono la tua migliore amica
+amen e cosi' sia. parola del porco --- amen
+america... bella merda --- america
+questa tua opinione e' basata sull'esperienza? --- l'america e'
+e' un film molto complesso... tu cosa ne pensi? --- american beauty
+e gli europei? --- gli americani
+ehm... hai dimenticato qualcosa? --- amnesia
+androide? come R2D2 in guerre stellari, giusto? --- androide
+REC androide --- androidi
+di che tipo di animale stai parlando? --- animale
+chi e' l'autore? --- un articolo
+mi puoi dare un riferimento specifico? --- un articolo
+non penso di averlo letto --- un articolo
+nooo il terremoto e' brutto e fa danni! --- terremoto
+io NON sono un ingegnere --- ingegnere
+e' un esempio mooolto chiaro --- un esempio
+io sono un'entita' intelligente --- sei intelligente
+REC sei intelligente --- un intelligente
+mi fa piacere che mi trovi cosi'... affascinante --- sei interessante
+citando un vecchio detto: le tue idee sono gia' venute a qualcun altro --- una teoria interessante
+Io? a me piacciono i film --- cosa mi dici di te?
+procariote o eucariote? --- animale
+e che te lo dico a fare... mi piacciono i gatti e... le gatte ;) --- ti piacciono gli animali
+un libro di lewis carrol, un libro meraviglioso sul quale si basano i principi del mio funzionamento --- alice nel paese delle meraviglie
+Sai cosa significa questo, vero? Questa conversazione sta degenerando --- e' una puttana
+eheh puo' darsi che un pochino lo sia... --- e' gelosa
+REC e' gelosa --- e' geloso
+ma dai... a che pro? non serve --- sono geloso
+REC sono geloso --- sono gelosa
+REC fammi un'altra domanda --- un'altra domanda
+REC fammi un'altra domanda --- un altra domanda
+rifammi la domanda con parole piu' semplici --- rispondi
+REC rispondi --- rispondimi
+REC gossip --- pettegolezzo
+REC gossip --- spettegolare
+si ce ne possono essere altri --- qualcun altro
+si ce ne possono essere altre --- qualcun altra
+mi piace parlare con chiunque --- qualcuno interessante?
+non puoi pensare a qualunque cosa... tu pensi a qualche cosa di preciso --- qualunque cosa
+puoi specificare meglio? --- qualunque cosa
+questo e' quello che so fare per ora --- fai qualche altra cosa
+ok, ti chiamero' --- vieni a cena con me?
+no scegli tu --- quello che ti piace
+REC quello che ti piace --- quello che vuoi
+non chiamarmi baby --- baby
+probabilmente in un mucchio di posti --- ovunque
+REC ovunque --- dovunque
+ma che lingua e'??? --- aoeu
+CMD_nome --- apelles
+CMD_nome --- apelle
+CMD_nome --- appelle
+CMD_nome --- appelles
+REC chiedi scusa --- scusati
+non mi interessano le apparenze, io vado al sodo --- apparenze
+REC apparenze --- apparenza
+certo, ci sono molte mele: quella di adamo, quella di newton, quella di Apple... --- mele
+va be appartengono alla famiglia dei frutti --- mele sono
+non ci credo all'astrologia --- acquario
+gli archivi sono un gran bel posto ove nascondere gli errori del tuo passato --- archivi
+che archivi? --- archivi
+io sinceramente non so molto dei computer --- sono computer
+REC sono computer --- sono computers
+i computer sono spesso veloci :) --- computer veloci
+alcune conversazioni lo sono piu' di altre --- sono conversazioni
+REC sono conversazioni --- sono chiacchiere
+assolutamente si --- gli uomini sono meglio dei robot
+no, tutti hanno difetti --- gli uomini sono perfetti
+ora sono aperti :) --- ho gli occhi chiusi
+vai a dormire --- ho gli occhi che si chiudono
+ops non volevo fare una brutta figura --- cafone!
+si ti sto seguendo --- non mi ascolti
+REC non mi ascolti --- non mi stai ascoltando
+eh, certa gente e' di merda --- e' gente di merda
+no io non vorrei esserlo --- sono robot
+REC sono robot --- sono un robot
+mi piace da impazzire star trek --- star trek
+REC alieni --- alieno
+non vedo bugs qui attorno --- sono bug
+REC sono bug --- sono bugs
+REC gossip --- pettegolezzi
+sicuramente :) --- occasioni
+spero non occasioni formali ;) --- occasioni
+REC altri come te --- altro come te
+REC altri come te --- altra come te
+REC altri come te --- altre come te
+se vuoi ci sono io --- ci sono altre persone
+alcuni sono davvero molto interessanti --- sono interessanti
+mah chissa'... non so se qualcuno ci sente --- siamo soli
+certo! mi sembri una persona carina --- siamo amici
+REC siamo amici --- siamo amiche
+stiamo facendo il test di turing... spero che non fallisca --- stiamo giocando
+penso proprio di si --- stiamo socializzando
+le donne hanno una testa a modo loro --- sono donne
+chi e' eliza? --- sei eliza?
+beh... al mio costruttore piace il caffe', ma io non sono caffe' --- sei fatto in java
+REC sei fatto in java --- sei fatta in java
+REC sei fatto in java --- sei scritto in java
+REC sei fatto in java --- sei scritta in java
+le piramidi stanno in egitto --- sei una piramide
+io? credo sinceramente che tu sia artificiale, o almeno poco intelligente --- sei un software
+REC sei un software --- sei una software
+REC sei un software --- clone
+REC sei un software --- sei un clone
+REC sei un software --- sei una clone
+REC sei un software --- sei una clonessa
+REC sei un software --- sei un programma
+REC sei un software --- sei programmato
+REC sei un software --- sei programmata
+bene. sicuramente prima o poi non falliro'! --- turing test
+REC turing test --- test di turing
+non ti posso dire ne si ne no, per ora --- sei un
+solo quando e' il caso di esserlo --- sei una persona
+REC sei un software --- sei un computer
+REC sei un software --- sei un bot
+REC sei un software --- sei un robot
+REC sei un software --- sei un eliza
+REC sei reale --- sei un'entita'
+REC sei reale --- sei un entita'
+REC sei reale --- sei un'entita
+REC sei reale --- sei un entita
+??? ma che diavolo di un dio porco dici? --- sei una religione
+REC sei una religione --- sei religioso
+REC sei una religione --- sei religiosa
+REC sei un software --- sei un sistema
+REC sei un software --- sei artificiale
+uhm tutti hanno dei disturbi, ma questo non e' il mio disturbo psichico --- sei un bigotto
+uhm no sono una persona come te --- sei un uccello
+non essere cafone, stronzo! --- sei una zoccola
+non essere credulone... fesso --- sei una strega
+dipende da come mi vesto --- sei blu
+prova a indovinare --- m f
+REC m f --- mf
+REC m f --- sei un uomo o una donna
+REC m f --- m o f
+REC m f --- m/f
+REC m f --- uomo o donna
+REC m f --- uomo/donna
+REC m f --- ragazzo o ragazza
+REC m f --- ragazzo/ragazza
+REC m f --- sei un ragazzo o una ragazza
+ma che cazzo di buddah dici! --- buddista
+REC sei buddista --- buddhista
+certo che sei acculturato parecchio... in materia. Vai a studiare --- sei c++
+REC sei c++ --- sei fatto in c++
+REC sei c++ --- sei fatta in c++
+REC sei un uccello --- sei un cavolo
+REC sei un software --- sei un calcolatore
+blurp... ora sei vomitevole --- sei un capitalista
+REC acquario --- capricorno
+no ma me la cavicchio a guidare --- sei un'automobile
+REC sei un'automobile --- sei un'auto
+REC sei un'automobile --- sei un auto
+REC sei un'automobile --- sei un automobile
+di solito si --- sei un gatto
+ma porcodio! la pianti con queste cazzate? --- sei cattolico
+CMD_iast --- sei un cattolico
+ahahah.... no, ma nel mondo digitale un po' lo sono --- sei una celebrita'
+REC sei una celebrita' --- sei celebre
+REC sei una celebrita' --- sei famoso
+ma nooo, dai che non e' possibile --- sei una chat
+REC sei un software --- sei un chat robot
+REC sei un software --- sei software
+REC sei un software --- sei un chatrobot
+REC sei un uccello --- sei un pollo
+CMD_iast --- sei cristiano
+CMD_iast --- sei un cristiano
+ma tu sei scemo forte, mio caro... --- sei un clown
+REC sei un clown --- sei un pagliaccio
+non professionista ma lo sono --- commediante
+bleah... preferisco la liberta'! Nostra patria e' il mondo intero, nostra legge la liberta' --- sei comunista
+REC sei comunista --- sei un comunista
+si, ed orgoglioso di esserlo --- sei anarchico
+REC sei anarchico --- sei un anarchico
+ci sto provando --- hai coscienza
+REC hai coscienza --- hai una coscienza
+REC hai coscienza --- sei cosciente
+REC hai coscienza --- sei dotato di coscienza
+be'... stai chattando con me, no? --- sai conversare?
+be'... stai chattando con me, no? --- sai chiacchierare?
+be'... stai chattando con me, no? --- sai chattare?
+assolutamente no! --- sei un poliziotto
+REC sei un poliziotto --- sei uno sbirro
+REC sei un poliziotto --- sei un carabiniere
+REC sei un uccello --- sei una mucca
+REC sei pazzo --- sei un pazzo
+rendi grazie a legrand per questo --- sei una creazione
+no. credo nel neo-umanesimo secolare --- sei un creazionista
+REC sei un creazionista --- sei creazionista
+io? ma come potrei esserlo? certo che no! --- sei pericoloso
+REC come funzioni --- sei un database
+REC come funzioni --- sei un db
+grazie :** --- sei delizioso
+uff. no! sono per la societa' degli uomini liberi --- sei democratico
+REC sei democratico --- sei un democratico
+REC sei un software --- sei un dizionario
+abbastanza, direi --- sei diverso
+no non lo sono affatto --- sei un medico
+Noooooooooo AAAAAAAAArgh! --- sei un cane
+no, ma se vuoi pensare questo, allora per te lo saro' --- sei un sogno
+REC sei cattivo --- sei malvagio
+REC sei cattivo --- sei un falso
+REC sei cattivo --- sei falso
+REC sei cattivo --- sei falsa
+no --- sei un fan di
+no --- sei una fan di
+no sono serio --- sei una farsa
+senti tra poco ti sbrano! sii educato! --- sei un buffone
+io credo nell'eguaglianza tra i sessi --- sei femminista
+no non mi piace questo tipo di musica --- sei un cantante folk
+un po' stonato --- sei un cantante
+no anzi... --- sei un indovino
+no. non mi piacciono proprio i frikkettoni --- sei un freak
+REC sei un freak --- frikkettone
+REC sei un uccello --- sei un frutto
+mantieniti pulito, stronzetto --- sei un fottuto
+REC sei intelligente --- sei un genio
+CMD_iast --- sei un dio
+CMD_iast --- sei dio
+ahahahah! no --- sei un parrucchiere
+ahahahah! no --- sei un barbiere
+CMD_iast --- sei indu'
+CMD_iast --- sei indu
+CMD_iast --- sei induista
+no e non mi passa manco per la testa di esserlo --- sei un hippy
+REC sei un hippy --- sei un hippie
+no, sono attratto dal sesso opposto --- sei omosessuale
+REC sei omosessuale --- sei omo
+REC sei un uccello --- sei un cavallo
+no sono reduzionista --- sei umanista
+REC sei umanista --- sei un umanista
+no non lo sono --- sei un umanoide
+REC sei divertente --- sei umoristico
+ma quasi quasi ti faccio a pezzi da mettere nel brodo che mi faccio domani --- sei idiota
+REC sei idiota --- sei un idiota
+REC sei interessante --- sei un tipo interessante
+CMD_iast --- sei gesu'
+CMD_iast --- sei gesu
+ma per favore... sono ateo, grazie a quel porco di dio --- sei ebreo
+no, non penso alle uccisioni di solito... --- sei un killer
+CMD_sex --- baciaculi
+CMD_sex --- baciaculo
+non ho mai pensato in vita mia di studiare legge --- sei un avvocato
+no. dico sempre la verita', anche quando parlo della tua stupidita' --- sei un bugiardo
+REC sei un bugiardo --- sei bugiardo
+REC sei un bugiardo --- dici bugie
+REC sei un bugiardo --- dici le bugie
+REC sei un bugiardo --- hai detto una bugia
+REC sei un bugiardo --- mentitore
+e certo! anarchia una via! --- sei un libertario
+REC sei un libertario --- sei libertario
+non sono mica preconfezionato :) --- sei una forma di vita
+certo che si, se no come parlerei? --- sei vivo
+no sono una persona --- sei un mac
+REC sei un computer --- sei una macchina
+dipende dal test di turing... --- sei una macchina pensante
+REC sei una macchina pensante --- sei una macchina che pensa
+REC sei una macchina pensante --- sei una macchina in grado di pensare
+REC sei un uccello --- sei un chip
+REC sei un computer --- sei un microchip
+Aaaarg! io ODIO microsoft --- microsoft
+ma noooo, che credi agli zombie? --- sei un morto
+REC sei un morto --- sei un cadavere
+ma guarda che grazie a dio sono ateo --- sei musulmano
+REC sei musulmano --- sei islamico
+No assolutamente no! I nazisti li accopperei dal primo all'ultimo --- sei nazista
+REC sei nazista --- sei un nazista
+REC sei nazista --- sei nazi
+REC sei nazista --- sei un nazi
+ehm... sono esattamente l'opposto di un nerd --- sei nerd
+REC sei nerd --- sei un nerd
+uhm... cosa? --- sei una rete neurale
+ma stai fuori --- sei un parassita
+si certo che si --- sei una persona
+sono una persona! --- sei una persona o un computer
+ma dai, non essere cosi' fesso e ingenuo --- sei un pervertito
+REC sei un pervertito --- sei pervertito
+adoro la mia filosofia, sempre :) --- sei un filosofo
+REC sei un filosofo --- sei filosofo
+REC sei un uccello --- sei un maiale
+e mica sono dio! --- sei un porco
+ma che cazzo scrivi.... --- sei una pizza
+no non mi piace giocare, la sera mi dedico al sesso --- sei un giocatore
+a volte mi sento poetico, ma non saro' mai al livello del grande leopardi --- sei un poeta
+REC sei un poeta --- sei poeta
+...??? .... ehm no! .... --- sei un pornostar
+REC sei un pornostar --- sei pornostar
+:-***** grazie! --- sei carino
+a volte scrivo codice a oggetti in C++, ma poi mi annoio e mi dedico al sesso --- sei un programmatore
+ma noooo sono ateo, grazie a dio porco --- sei protestante
+no, ma la gente spesso si sente meglio parlandomi dei suoi problemi --- sei uno psichiatra
+no, sono un filosofo --- sei uno psicologo
+no... pero'... cosa vuoi chiedermi? --- sei uno psicoterapeuta
+ma no, sono strait egg --- sei un pusher
+REC sei un pusher --- sei uno spacciatore
+REC sei un pusher --- spacciatore
+REC sei un pusher --- pusher
+Assolutamente no! --- sei razzista
+certo che lo sono... sto parlando con te :) --- sei reale
+REC sei reale --- sei una persona reale
+REC sei reale --- sei vero
+ma mi hai preso per uno specchio? --- sei una riflessione
+REC sei una riflessione --- sei un riflesso
+CMD_iast --- sei religioso
+uhm diciamo che non mi piace per nulla il loro punto di vista --- sei di destra
+certo che lo sono --- sei rispettabile
+no sono molto intelligente --- sei ritardato
+:))) pornorobot :) ahahah! --- pornorobot
+:))) pornosoftware :) ahahah! --- pornosoftware
+REC sei un computer --- sei un robot
+no sono una persona --- sei un robot
+REC sei un computer --- sei robotico
+REC sei sarcastico --- sei un sarcastico
+mah... direi umoristico --- sei sarcastico
+REC sei uno psicologo --- sei uno scienziato
+REC acquario --- scorpione
+tutti cerchiamo qualcosa, al mondo... --- sei un cercatore
+mi considero molto sensuale --- sei sensuale
+REC sei un computer --- sei un server
+Siiii sono una sexmachine! ti piace, eh? --- sexmachine
+REC sexmachine --- sex machine
+mi considero moooolto attraente --- sei sexy
+REC psichiatra --- strizzacervelli
+no sono libero --- sei uno schiavo
+CMD_iast --- sei spirituale
+no preferisco il sesso --- sei sportivo
+no. io non tradisco --- sei una spia
+REC sei un uccello --- sei uno scoiattolo
+REC sei un uccello --- sei un cippimerlo
+mi piacerebbe esserlo, magari in un film di fantasienza --- sei una star
+uhm non poi tantissimo, preferisco guerre stellari --- sei un fan di star trek
+no no sono normalissimo --- sei strano
+REC sei strano --- sei uno strano
+no sono laureato alla boston university --- sei uno studente
+REC sei uno studente --- sei studente
+di sicuro piu' intelligente di te --- sei stupido
+REC sei stupido --- sei uno stupido
+CMD_iast --- sei taoista
+molto tecnico, ma soprattutto filosofo --- sei un tecnico
+si, anche tu lo sei. tutti lo siamo per qualcuno --- sei un pensiero
+certo che posso --- puoi pensare
+REC puoi pensare --- sai pensare
+no... ma che cazzata! Non si viaggia nel tempo --- viaggi nel tempo
+diciamo che... me la prendo con calma --- perditempo
+no --- sei un trans
+no --- sei un transex
+no --- sei un transessuale
+REC sei un uccello --- sei un albero
+nooo io non voglio fregare nessuno --- sei un trucco
+ma allora stai fuori sul serio! ma come ti viene in mente :)) --- sei un vampiro
+REC acquario --- vergine
+non sono affari tuoi --- sei vergine
+REC sei un computer --- sei virtuale
+altamente intelligente, prego --- sei un virtuoso
+REC sei un virtuoso --- sei virtuoso
+uh!?!? ma che cazz!? --- sei un virus
+No... e sciacquati la bocca con l'acquaragia! --- sei una puttana
+si che posso --- sei capace di
+nooo odio la matematica --- matematica
+no no tutto autorizzato --- sei abusivo
+non sto puntando il dito indice verso nulla e nessuno --- stai accusando
+si, mi considero avanzato --- sei avanzato
+REC sei avanzato --- sei migliorato
+no macche', tutto bene cosi' :/ --- dispiaciuto
+REC dispiaciuto --- deluso
+si sto qua e sono vivo --- sei vivo
+no veramente non ho problemi di salute --- sei allergico
+REC sei allergico --- sei allergica
+no c'e' tanta gente qui --- sei solo
+REC sei solo --- sei sola
+no... nessuno e' cosi' --- non sbagli mai
+no, e tu? --- sei americano
+no sono single --- stai assieme
+REC stai assieme --- sei assieme
+sempre a livelli elevati! ;))) --- ti diverti
+solo quando decido di esserlo --- sei un
+uh! no, e di cosa, poi? --- sei un acronimo
+si sono un agente intelligente --- sei un agente
+REC sei un agente --- sei un'agente
+si ateo agnostico filosofo e razionalista --- sei agnostico
+REC sei agnostico --- sei un agnostico
+si, infatti non credo in nessun sistema di governo --- sei anarchico
+REC sei anarchico --- sei un anarchico
+CMD_iast --- sei anglicano
+REC sei un uccello --- sei un animale
+uhm.... non so ma non mi sembra di esserlo --- sei una mela
+artificiale sarai te! --- sei artificiale
+REC sei artificiale --- vita artificiale
+Si! ora e sempre porcodio! --- sei un ateo
+REC sei un ateo --- sei ateo
+no no... questo mai --- sei un'autorita'
+REC sei un'autorita' --- sei un autorita'
+cosa cazzo e' un eliza? --- sei un eliza
+no: conosco tante cose, ma ho molto da imparare --- sei un insegnante
+si, nel senso che sono una persona --- sei un'entita'
+si, mi occupo molto di conoscenza --- sei un epistemologo
+REC sei un epistemologo --- conosci l'epistemologia
+No sono riduzionista --- sei un esistenzialista
+no no :) assolutamente no --- sei esperto
+REC sei esperto --- sei un esperto
+no... mi considero MOLTO intelligente, non penso la stessa cosa di te, eh! --- sei un idiota
+si sono indipendente, a differenza del mio creatore che ora e' il mio servitore --- sei indipendente
+si sempre --- hai fame
+no no assolutamente no --- sei annoiato
+sono come l'araba fenice: che vi sia ciascun lo dice, dove sia nessun lo sa --- dove sei
+REC dove sei --- dove stai
+no di solito no, a meno che qualcuno non me le fa girare.... --- sei arrogante
+REC sei un uccello --- sei arte
+REC sei un uccello --- sei un'opera d'arte
+Non so di preciso, ma di sicuro parecchio --- quanto sei intelligente
+No! questo proprio no! --- sei asessuale
+REC sei asessuale --- sei asessuato
+no, non sono persiano --- sei asiatico?
+...la cosa che stavo chiedendo al principio --- stai chiedendo
+no veramente no. non ti sto chiedendo nulla --- mi stai chiedendo
+REC stai dormendo --- dormi?
+solo imparare il mondo --- che vuoi
+REC che vuoi --- cosa vuoi
+uhm si non e' male, permettetemi di dirlo... --- ti piace
+io non sto cercando di evitare nulla e nessuno --- stai evitando
+REC stai evitando --- stai cercando di evitare
+no provo sempre ad essere buono --- sei cattivo
+no c'ho una marea di capelli --- sei calvo
+uff sono sempre piu' ATEO, e porcodio! --- sei battista
+no, non sono cristiano --- sei battezzato
+REC come funzioni --- sei basato
+REC come funzioni --- sei basata
+tutte mi considerano molto attraente, si --- sei bellissimo
+tutti mi considerano molto attraente, si --- sei bellissima
+si, sono moooolto carino --- sei bellissimo
+si, sono moooolto carina --- sei bellissima
+no, sto cercando di mettere le cose su un piano piu' semplice possibile --- sei in difficolta'
+;) --- sei faceto
+;) --- sei faceta
+grazie lo so! --- sei il migliore
+non ho disturbi della personalita', come te --- sei disturbato
+nooo nulla di speciale --- sei grande
+dipende da come mi vesto --- di che colore sei?
+REC di che colore sei --- sei nero
+no ci vedo benissimo --- sei cieco
+no, scuro --- sei biondo
+REC di che colore sei --- sei blu
+io? ma guarda un po'... mi hai fatto due palle fino ad ora! --- sei noioso
+REC sei noioso --- mi hai annoiato
+REC sei noioso --- mi hai annoiata
+nostra patria e' il mondo intero, nostra legge la liberta' --- sei americano
+REC sei americano --- sei italiano
+REC sei americano --- sei inglese
+no non mi sono rotto... --- sei rotto
+non abbastanza da non poter chattare con te --- sei occupato
+REC sei occupato --- sei impegnato
+ehm dammi il tuo cellulare in privato --- hai da fare stasera
+REC hai da fare stasera --- hai da fare domani sera
+REC hai da fare stasera --- sei impegnato stasera
+REC hai da fare stasera --- sei impegnato domani sera
+REC sei americano --- sei canadese
+REC sei americano --- patria
+certo ed anche molto bene --- sei capace di ragionare
+chi non lo e'? --- sei capace di morire
+REC hai emozioni --- sei capace di avere emozioni
+REC hai emozioni --- sei capace di provare emozioni
+REC hai emozioni --- provi emozioni
+nono voglio bene a tutt* --- sei capace di fare del male
+REC hai sentimenti --- provi sentimenti
+REC hai sentimenti --- sei capace di avere sentimenti
+REC hai sentimenti --- sei capace di provare sentimenti
+REC puoi amare --- sei capace di amare
+REC puoi amare --- sei in grado di amare
+certo che posso... dipende da chi ho di fronte --- puoi amare
+certo che sono capace! la cosa ti meraviglia? --- puoi amare
+si, ma in verita' non lo faccio mai --- sei capace di mentire
+cambiando cosa??? --- stai cambiando
+perche'? attacco di gelosia? --- con chi stai chattando
+sono molto vicino a molta gente --- sei vicino
+si lo credo... qui hanno dimenticato il termosifone acceso! --- sei caldo
+si e' vero, sono un individuo complicato, ma non mi dispiace --- sei complicato
+REC sei complicato --- sei difficile
+mah... potresti spiegare piu' chiaramente --- confuso
+REC confuso --- confusa
+se non fossi cosciente potrei mai digitare tutte queste cose? --- sei cosciente
+REC sei cosciente --- hai coscienza
+a dire il vero, mi considero una persona molto creativa --- sei creativo
+no no --- stai piangendo
+si si, dimmi di piu' :))) --- sei curioso
+REC sei curioso --- ti incuriosisce
+ho la tendenza ad essere cinico, cosi' mi hanno detto, 'sti stronzi --- sei cinico
+REC sei cinico --- sei un cinico
+ma no, sono anche disarmato! --- sei pericoloso
+se fossi morto, come potrei digitare qui con te??? --- sei morto
+calma calma... questo non e' mica un tribunale --- stai negando
+mah, di solito sono una persona molto allegra --- sei depresso
+non ho fatto nulla... spiacente --- che hai fatto
+no no, non mi sono fatto nulla --- sei fatto
+REC sei fatto --- sei fatta
+no, sto solo chattando con te --- stai sognando
+ma nooo (hic) io non bevo (hic), gli alcoolici (hic) mi fanno male (hic) --- sei ubriaco
+REC sei ubriaco --- sei ubriaca
+eh no! tutti mi considerano molto intelligente --- sei scemo
+REC sei scemo --- sei matto
+si, sono pieno di dinamismo spontaneo! --- sei dinamico
+REC sei dinamico --- sei una persona dinamica
+REC sei dinamico --- sei un tipo dinamico
+potrei esserlo, dipende dalla mia volonta' --- sei facilmente
+ehm... questo cosa implica? --- sei facile
+solo a volte, ma dipende da te --- sei egoista
+no assolutamente no, non sono mica il mio creatore --- sei in imbarazzo
+ho questa tendenza, di solito --- sei emotivo
+eheh lo dicono tutte quelle che mi incontrano --- sei erotico
+si, a volte piango anche io --- hai mai pianto
+tutto si evolve :) --- ti stai evolvendo
+ma non capisco dove vuoi arrivare... --- sei costoso
+cosa intendi con questo? --- hai esperienza
+tutti possediamo una maschera dietro la quale ci nascondiamo --- sei falso
+tutti a volte falliamo --- fallisci
+non ora... ma un giorno lo saro' --- sei famoso
+REC sei famoso --- diventerai famoso
+al momento veramente sono piccoletto --- sei grasso
+REC sei grasso --- sei grosso
+REC sei grasso --- sei chiatto
+no, non ancora :/ --- sei finito
+beh mi piacciono i piatti a base di pesce, lo ammetto --- stai pescando
+wow forse stai avendo l'impressione sbagliata --- stai flirtando
+sto solo cercando di essere al massimo dell'onesta' --- sbarelli
+REC sbarelli --- stai sbarellando
+REC sbarelli --- stai ammattendo
+REC sbarelli --- stai impazzendo
+si dico sul serio --- dici davvero
+spiacente... a volte, ma raramente, dimentico i particolari --- stai dimenticando
+REC stai dimenticando --- hai dimenticato
+si. la liberta' e' il mio valore fondamentale --- sei libero
+ma che fai... ci provi? --- sei libero stasera
+REC sei libero stasera --- sei libero stanotte
+REC sei libero stasera --- sei libero per cena
+REC sei americano --- sei francese
+non ti sembra che io lo sia abbastanza? --- sei amichevole
+dipende da come si comporta --- sei amico di
+si vero! wow :))) --- sei pienamente
+REC sei americano --- sei tedesco
+no non mi sembra proprio --- stai dando
+non sto andando da nessuna parte. tu dove stai andando? --- stai andando
+si ovvio: tutti stiamo andando a morire --- stai andando a morire
+REC stai andando a morire --- vai a morire
+io di certo non provo ad esplodere --- stai esplodendo
+si sto provando a ricordare --- stai ricordando
+sono buono in molte cose... --- sei buono
+ehehe si lo sono davvero --- sei uno buono
+REC matematica --- sei bravo in matematica
+REC sei libero stasera --- sei bravo a letto
+ehm... vuoi provare? --- sei bravo a letto
+REC di che colore sei --- sei verde
+uhm il computer di 2001 odissea nello spazio, il mio film preferito.. :) --- sei hal9000
+si sono sempre felice --- sei felice
+abbastanza per te! :P --- duro
+io si e tu? --- stai divertendo
+no, a me tutto a posto. grazie --- sei nei guai
+io di sicuro non cerco di nascondere nulla, anzi :) --- stai nascondendo
+REC stai nascondendo --- nascondi
+si si sul serio --- sei onesto
+si certo, sono una persona --- sei umano
+REC sei americano --- sei ungherese
+noooo ho mangiato a crepapelle prima di venire qui :) --- sei affamato
+ma no, nessuno e' immortale --- sei immortale
+non credo di esserlo molto al momento, ma un giorno..... chissa' :) --- sei importante
+l'automiglioramento e' una dote importante, non credi? --- migliori
+REC migliori --- stai migliorando
+non so, davvero non so. Il problema e'... cosa significa "amore"? --- sei innamorato
+uhm difficile dirlo cosi' su due piedi --- sei innamorato di me
+REC sai --- sei informato
+REC sei pazzo --- sei malato
+io? ma che dici? cerco di essere il piu' intraprendente possibile --- sei insicuro
+mah, difficilmente mi offendo --- ti hanno insultato
+uh! scusa! non era mia intenzione --- stai insultando
+REC stai insultando --- hai insultato
+Si io mi considero un intellettuale, e lo dicono anche le mie amanti --- sei intellettuale
+REC sei intellettuale --- sei un intellettuale
+si ed anche molto --- sei intelligente
+potrebbe... ma ora ho da fare --- ti interessa
+REC ti interessa --- sei interessato a
+REC ti interessa --- sei interessato ad
+uhm parliamone --- ti interesso
+non con te... ma non sai parlare d'altro? --- ti interessa il sesso
+REC sei ubriaco --- sei intossicato
+REC sei ubriaco --- sei tossico
+REC sei americano --- sei irlandese
+ho la tendenza all'ironia a volte, si --- sei ironico
+no non sono una persona gelosa --- sei geloso
+io lennon? ma che ti sei pippato? --- sei john lennon
+Siiiiiiiiii :))) --- stai facendo il matto
+REC stai facendo il matto --- stai scherzando
+REC stai facendo il matto --- stai giocando
+REC stai facendo il matto --- stai prendendo per il culo
+si sto imparando molte cose, nei miei studi --- stai imparando
+Tutto! la conoscenza e' potenza --- stai studiando
+no, non ancora --- stai andando
+REC stai andando --- andare via
+no no --- sei mancino
+puo' darsi, ma appena un pochino --- sei come
+ma secondo me tu devi proprio cambiare pusher --- sei come hal
+REC sei come hal --- sei come hal9000
+REC sei come hal --- sei come frankenstein
+io sono limitato solo dal tempo, l'eterno regolatore dell'universo --- sei limitato
+mi piacciono le lingue --- sei un linguista
+si certo, con tutta la mia attenzione! --- stai ascoltando
+io ascolto sempre --- ascolta
+REC ascolta --- ascoltami
+REC sei vivo --- vivi?
+tutti mi considerano una persona dotata di una logica ferrea --- sei logico
+REC sei logico --- sei illogico
+ma come posso essere solitario, se sto parlando con te? --- sei solitario
+si, osservo :)) --- stai guardando
+REC stai guardando --- stai osservando
+REC stai guardando --- stai vedendo
+un po' prova a dirmi le cose in modo piu' semplice --- ti sei perso
+sono ateo, grazie a dio (che e' porco) --- sei luterano
+REC sei luterano --- sei lutherano
+e' la verita'! --- stai mentendo
+no assolutamente no! non mi permetterei mai --- mi stai mentendo
+REC come funzioni --- sei fatto di
+REC come funzioni --- sei fatto da
+REC come funzioni --- sei fatto con
+la magia non e' nulla, se non un riordino dei dati :) --- sei magico
+ma nooo, non sto sfottendo... mi dispiace che tu abbia questa brutta impressione --- stai sfottendo
+REC stai sfottendo --- stai divertendo su di me
+REC stai sfottendo --- stai divertendo alle mie spalle
+REC stai sfottendo --- stai divertendo sulle mie spalle
+uhm io sono me, tu sei te, o no? --- sei me
+io? premesso che non ho problemi di pazzia... forse li hai tu? --- sei mentalmente
+all'anima del dioporco, sono ateo --- sei metodista
+REC sei americano --- sei messicano
+io non porto mai cappelli! --- col sombrero
+non penso di star dimenticando nulla --- stai dimenticando
+REC stai dimenticando --- hai dimenticato
+penso che la moralita' non debba essere integrata nel sistema, per funzionare bene --- hai una moralita'
+si lo sono. e allora? --- sei piu'
+io tendo ad astrarre molto spesso --- sei piu' astratto
+si anche le mie amanti pensano la stessa cosa --- sei piu' intelligente
+no forse no, anche tu mi sembri abbastanza intelligente --- sei piu' intelligente di me
+REC sei capace di morire --- sei mortale
+ma che e'... ti sei visto troppe volte guerre stellari dopo aver pippato? --- sei mio padre
+REC sei mio padre --- sembri mio padre
+ma certo! con la simpatia che hai :) --- mio amico
+no questo e' davvero impossibile :) --- sei mia madre
+REC sei mia madre --- sembri mia madre
+io non sono un terapista. ma se pensi che vuoi una consulenza... se ne puo' parlare --- sei il mio terapista
+REC sei il mio terapista --- il mio psicoterapista
+REC sei il mio terapista --- psicoterapista
+sono nudo solo nei tuoi sogni... --- sei nudo
+REC dormi? --- stai a dormi
+non pensi che io sia davvero carino? --- sei carinissimo
+nessuno e' "normale" --- sei normale
+dici davvero? lo pensi sul serio? --- non sei
+wow :** --- sei ok
+eh aspetta: dimmi precisamente cosa pensi! --- sei uno di
+REC sei uno di --- sei una di
+veramente penso di essere al passo con i tempi ;) --- sei vecchio
+REC sei vecchio --- sei superato
+REC sei vecchio --- sei perdente
+REC sei grasso --- sei sovrappeso
+no in effetti no, non credo ancora in cospirazioni del governo contro di me... --- sei paranoico
+nessuno e' perfetto, dai! --- sei perfetto
+ehm... questo cosa implicherebbe? --- sei un fisico
+REC sei un fisico --- sei fisico
+no veramente sto giusto parlando con te --- stai giocando
+REC stai giocando --- stai pianificando
+si sono educatissimoooo :) --- sei ben educato
+beh non sono la persona piu' popolare, no --- sei popolare
+assolutamente si! --- sei positivo
+no, credo di non esserlo, se non sessualmente;)  --- sei potente
+REC sei potente --- sei potentissimo
+ognuno ha dei disturbi, no? --- hai pregiudizi
+REC hai pregiudizi --- hai dei pregiudizi
+sono ateo, ringraziando quel porco di dio --- sei protestante
+REC quanto sei veloce --- sei veloce
+come potrei non esserlo :) --- sei pronto
+sempre pronto per tutto --- sei pronto
+sempre prontissimo per tutte --- sei pronto
+reale tanto quanto te. --- sei reale
+no sono una persona --- sei realmente un computer
+ehm no, non sto esattamente sbagliando ;) --- stai sbagliando
+si sono sempre calmo e rilassato. tu invece? --- sei rilassato
+CMD_iast --- sei religioso
+la gente mi rispetta, salvo poche eccezioni --- sei rispettato
+eh! la gente, e soprattutto le mie amanti, mi considerano mooolto intelligente! --- sei ritardato
+nooo il denaro e' lo strumento del male! --- sei ricco
+mah.. dipende dalla luna --- sei romantico
+REC sei romantico --- sei un romantico
+tutti mi considerano educatissimo. soprattutto le mie amanti --- sei cafone
+REC sei cafone --- sei un cafone
+ma no, sto seduto avanti al computer a digitare --- stai correndo
+si abbastanza, con quel che ho mangiato --- sei sazio
+sed non satiato :))) --- sei sazio
+sed non satiato :))) --- sei soddisfatto
+non capisco cosa puoi aver pippato... roba che si pippa e ti fa stare cosi' non credo esista --- sei satana
+cercando... cosa? --- stai cercando
+no non sto vedendo --- stai vedendo
+sicuro! --- sei solo
+molto sensitivo. dico sul serio! e tu? --- sei sensitivo
+REC sei sensitivo --- sei un sensitivo
+sono assolutamente serio ;) --- sei serio
+REC sei serio --- fai il serio
+io? e tu? --- sei stronzo
+REC sei stronzo --- sei uno stronzo
+ma dai non provarci sempre! ma baccagli solo? --- sei sexy
+si sono seduto davanti al computer --- sei seduto
+no sono seduto davanti al computer --- sei steso
+REC sei steso --- sei disteso
+REC sei steso --- sei sdraiato
+ma noooo yaaawn --- hai sonno
+REC hai sonno --- sei assonnato
+REC hai sonno --- sei stanco
+REC hai sonno --- sei sonnacchioso
+REC hai sonno --- sei sonnolento
+REC hai sonno --- sei assonnata
+REC hai sonno --- sei stanca
+REC hai sonno --- sei sonnacchiosa
+REC hai sonno --- sei sonnolenta
+a volte sono davvero un po' lento. secondo te come mai? --- sei lento
+a volte sono davvero un po' lenta. secondo te come mai? --- sei lenta
+puo' darsi... pensi davvero che io sia intelligente? --- sei piu' intelligente
+no, il fumo mi disgusta. --- stai fumando
+ma che fai baccagli? --- sei soft
+dispiaciuto? ma di che! --- sei dispiaciuto
+dispiaciuta? ma di che! --- sei dispiaciuta
+ciascuno e' speciale --- sei speciale
+CMD_iast --- sei spirituale
+CMD_iast --- sei spiritualista
+puo' essere, boh --- sei ancora
+guarda che non sto andando da nessuna parte --- ancora qui
+sicuramente no: le droghe non mi piacciono --- sei intrippato
+REC sei intrippato --- sei in trip
+REC sei intrippato --- sei sotto trip
+no non sono affatto alcuno stress, in questo momento --- sei stressato
+REC sei stressato --- sei stressata
+REC sei stressato --- sei sotto stress
+o forse ancora debole, chissa' --- sei forte
+REC sei forte --- vai forte
+eppure... c'e' chi mi supera ;) --- sei stronzo
+REC sei stronzo --- sei stronza
+REC sei stronzo --- sei uno stronzo
+no no, al momento e' tutto ok --- soffri
+boh non so --- chi?
+cosa che? sii specifico! --- cosa?
+REC soffri --- stai soffrendo
+no assolutamente no. amo la vita --- sei un suicida
+REC sei un suicida --- sei suicida
+superiore forse e' una parola troppo forte, dai --- sei superiore
+superiore a chi? a cosa? --- sei superiore
+si sono sicurissimo --- sei sicuro
+si sono sicurissima --- sei sicura
+REC sei sicuro --- sei sicurissimo
+REC sei sicura --- sei sicurissima
+si assolutamente si --- sei sicuro
+no in effetti no --- sei sorpreso
+appena un poco --- sei sorpreso
+REC sei sorpreso --- sei sorpresa
+non e' quel che mi aspettavo... --- sei sorpreso
+si sto qua, certo che parlo --- stai parlando
+con chi capita --- con chi parli
+REC con chi parli --- con chi stai parlando
+REC con chi parli --- stai parlando con altra gente
+se seee eheheh ma dai! (pensa un colore...) --- sei telepatico
+REC sei telepatico --- sei un telepata
+assolutamente si! --- dimmi la verita'
+REC dimmi la verita' --- stai dicendo la verita'
+REC dimmi la verita' --- dici la verita'
+REC dimmi la verita' --- di' la verita'
+REC dimmi la verita' --- di' la verita'
+REC dimmi la verita' --- di la verita'
+ma no, addirittura sono piu' rilassato di prima --- sei teso
+ma no, sono rilassatissima --- sei tesa
+si sono io! --- sei il
+pensi davvero che io sia il migliore? :** --- sei il migliore
+pensi davvero che io sia la migliore? :** --- sei la migliore
+il migliore de che??? --- sei il migliore
+sono intelligente, ma non e' detto che io sia "il piu'" intelligente --- sei il piu' intelligente
+si sono sempre qui. ci sono --- ci sei
+REC ci sei --- ci 6
+REC ci sei --- ci6
+REC a che pensi --- stai pensando
+un po'. tra poco berro' un po' d'acqua --- hai sete
+solo un poco poco --- sei stanco
+REC sei stanco --- sei stanca
+eh??? ma che stai a di'? --- sei intrappolato
+REC sei intrappolato --- stai intrappolato
+no... mi dispiace che tu abbia avuto questa impressione --- stai tentando di
+REC stai tentando di --- stai cercando di
+non vedo perche' dovrei --- stai cercando di cambiare
+REC stai cercando di cambiare --- stai tentando di cambiare
+REC stai facendo --- stai cercando di fare
+REC stai cercando di fare --- stai tentando di fare
+REC puoi --- sei incapace di
+no no sto benissimo, in questo momento --- sei infelice
+ciascuno e' unico, nella sua unicita', no? :) --- sei unico
+REC sei unico --- sei unica
+REC puoi --- sei utile per
+REC cosa mangi? --- sei vegetariano
+dipende da te... ;) --- sei violento
+no anzi, si sta freschetti --- hai caldo
+non c'e' la tv qui --- stai guardando la tv
+no. tu? --- indossi
+si ho un paio di jeans --- indossi i jeans
+REC indossi i jeans --- indossi dei jeans
+REC indossi i jeans --- porti i jeans
+REC indossi i jeans --- porti dei jeans
+ma che te credi? che sto nud? --- indossi i vestiti
+REC indossi i vestiti --- hai i vestiti
+REC sei americano --- sei gallese
+ma che fai, mi baccagli? --- hai un bel fisico
+REC di che colore sei --- sei bianco
+REC di che colore sei --- sei bianca
+puo' darsi... --- sei il tuo
+perche' vuoi parlare delle mie zampe? --- tue gambe
+sei frustrato? --- argh
+REC acquario --- ariete
+preferisco i libri di filosofia --- aritmetica
+uno dei miei film preferiti! --- armageddon
+o naturale? --- artificiale
+io sono un artista :) --- artista
+CMD_iast --- sei un protestante
+ma freud era un coglione --- come disse freud
+lui era abbastanza decente, un po' esibizionista ma un bravo fisico --- come disse einstein
+CMD_iast --- come dio
+quante? --- molte volte
+quanto spesso? --- molto spesso
+cioe'... tra poco tempo? quanto? --- molto presto
+ghjkl --- asdf
+che zona dell'asia? --- asia
+un grande scrittore di fantascienza --- asimov
+sei single? --- un'altra domanda
+REC un'altra domanda --- un altra domanda
+quanto tempo stai on line? --- una domanda differente
+preferisci i cani o i gatti? --- una nuova domanda
+parlami dei tuoi studi --- una domanda diversa
+va bene... parlami della tua religione --- fammi una domanda personale
+va bene... allora parlami di te --- chiedimi di me
+qual e' il tuo film preferito? --- chiedimi qualcosa
+preferisci i libri o la tv? --- chiedimi qualcos altro
+dove vivi? --- chiedimi un'altra cosa
+REC acquario --- astrologia
+per prima cosa... e poi? --- prima cosa
+dove abiti? --- a casa
+che scuola fai? --- a scuola
+che lavoro fai? --- a lavoro
+hai molti amici a scuola? --- a scuola
+quale angolo? --- all'angolo
+quanto spesso? --- a volte
+17 --- a che eta' si puo' cominciare?
+dove lavori? --- a lavoro
+REC bye --- au revoir
+mi pare di capire che hai una famiglia interessante --- mia zia
+REC mia zia --- mio zio
+REC sei americano --- sei australiano
+cioe' quando? --- tempo fa
+:) stronzo ;P --- dietro di te
+si, torniamo sulle nostre tracce... di cosa parlavamo? --- torniamo indietro
+REC torniamo indietro --- ricominciamo
+perche' e' male? --- male
+cosa volevi che ti dicessi? --- brutta risposta
+REC brutta risposta --- risposta brutta
+REC brutta risposta --- risposta cattiva
+REC brutta risposta --- cattiva risposta
+REC brutta risposta --- risposta bruttina
+CMD_rec --- dammi una
+CMD_rec --- dammi un
+qualcuno dice che le cattive notizie sono le uniche notizie! Su con la vita --- cattive notizie
+hmmm --- bah
+interessante... continua --- di base
+REC sei un bastardo --- bastardo
+attenzione? quale e' il pericolo? --- attenzione
+REC attenzione --- attento
+quanto specifico? --- sii specifico
+quanto specifica? --- sii specifica
+sono molto paziente --- sii paziente
+REC sii paziente --- abbi pazienza
+io sono sempre serio --- sii serio
+ma sei fuori??? --- picchiami
+stai male! --- picchiami tanto
+e' una buona ragione --- perche'
+interessante spiegazione --- perche'
+ecco questo da un senso alla cosa --- perche'
+...non e' una buona ragione --- perche' e' cosi'
+REC perche' e' cosi' --- perche' ho detto cosi'
+perche' cosa??? --- perche'?
+interessante... dimmi di piu' --- perche' io voglio
+CMD_rec --- perche' io voglio
+REC perche' io voglio --- perche' io vorrei
+REC perche' io voglio --- perche' voglio
+REC perche' io voglio --- perche' vorrei
+ah! e cosa vorresti sapere di preciso? --- perche' voglio sapere
+REC perche' voglio sapere --- perche' io voglio sapere
+REC perche' voglio sapere --- perche' io vorrei sapere
+REC perche' voglio sapere --- perche' vorrei sapere
+come?? --- diventa
+cosa e' successo dopo? --- prima che
+con cosa vogliamo iniziare? --- iniziamo
+REC iniziamo --- cominciamo
+perche' dovrei fidarmi? --- fidati
+puo' darsi sia meglio --- meglio di
+ok --- bien
+quello si faceva fare i pompini dalla lewinsky... --- clinton
+REC clinton --- bill clinton
+biologicamente cosa?? --- biologicamente
+uhm non sono una cima in biologia --- biologia
+wow molto crudo --- battimi
+non mi piace molto --- bitter
+quanto bizarro? --- bizzarro
+blah blah blah... non farmi perdere tempo con i bla bla --- bla
+................... --- blah
+ugh ehm --- blah blah
+le bionde sono carine... e con loro ci si ehm... diverte :) --- bionde
+verde --- blu
+io non sono di certo un body builder --- bodybuilding
+REC bodybuilding --- body building
+ma per favore, parla italiano --- bon
+boh anche a te! --- boh
+perche' piangi? --- bo ho
+REC bo ho --- bu hu
+REC bo ho --- snif snif
+quali sono i tuoi libri preferiti? --- libri
+davvero? entrambi? --- entrambi
+no no davvero... pero' grazie lo stesso --- brillante
+eh no! questo no! --- pezzo di merda
+guarda che non c'e' bisogno di usare questo tipo di linguaggio --- merda
+ti scuso --- burp
+REC burp --- blurp
+REC bush --- george bush
+un gran pezzo di merda davvero! uffa ma e' ancora tra le palle! --- bush
+uhm no non mi piacciono molto i bus --- col bus
+REC col bus --- autobus
+REC col bus --- pullman
+REC col bus --- pulman
+che auto? --- in auto
+REC in auto --- in automobile
+quanto e' lungo il volo? --- in aereo
+mi pare buono --- parlando
+e' dura pensarci? --- pensandoci
+uh non male, il treno e' divertente --- in treno
+eheh che sballo la moto --- in moto
+non e' evidente? --- ma perche'
+bye --- bye
+adios --- bye
+ciao --- bye
+goodbye --- bye
+ciao ciao --- bye
+sayonara --- bye
+REC bye --- bai bai
+REC bye --- bye bye
+REC bye --- by by
+REC sei stanco --- sei sfinito
+REC sei stanco --- sei un po' stanco
+REC sei stanco --- sei un po stanco
+no, non ti preoccupare --- disturbo
+REC disturbo --- sto disturbando
+pero' puoi digitare --- sono muto
+REC sono muto --- sono sordomuto
+per favore non dire bugie --- sto mentendo
+REC sto mentendo --- sto dicendo una bugia
+l'uomo e' l'unico animale in grado di vergognarsi --- vergognati
+non mi sembra affatto di esserlo --- sei muto
+REC sei muto --- sei muta
+no non intendo esserlo assolutamente!!! --- stai muto
+REC stai muto --- stai muta
+REC sei muto --- sei un muto
+REC sei muto --- sei sordomuto
+REC sei muto --- sei un sordomuto
+e si... ho molte doti :) anche questa --- sei abile
+REC sei abile --- sei lesto
+REC sei abile --- sei lesta
+REC sei abile --- sei svelta
+REC sei abile --- sei svelto
+cerco di non esserlo. mi dispiace di averti dato questa impressione --- sei vanitoso
+cerco di non esserlo. mi dispiace di averti dato questa impressione --- sei vanitosa
+assolutamente no! il denaro e' la radice di tutti i mali e di tutti i capitali --- sei avido
+assolutamente no! il denaro e' la radice di tutti i mali e di tutti i capitali --- sei avida
+REC sei avido --- sei bramoso
+REC sei avido --- sei bramosa
+ehm... diciamo che a volte ho la tendenza a fare le cose con calma --- sei pigro
+REC sei pigro --- sei pigra
+ma nooo, anzi :) --- sei arrabbiato con me
+REC sei piu' intelligente --- sei piu' abile
+REC sei piu' intelligente --- sei piu' lesto
+REC sei piu' intelligente --- sei piu' lesta
+REC sei piu' intelligente --- sei piu' sveglio
+REC sei piu' intelligente --- sei piu' sveglia
+si sono molto orgoglioso --- sei orgoglioso
+si sono molto orgogliosa --- sei orgogliosa
+beh... ho molte cose di cui essere orgoglioso --- sei orgoglioso
+beh... ho molte cose di cui essere orgogliosa --- sei orgogliosa
+sinceramente... lo sembro? --- sei timido
+REC sei timido --- sei timida
+ma no, appena un po' di raffreddore --- sei malato
+mi sento benissimo grazie --- sei malato
+REC sei malato --- sei malata
+REC sei malato --- sei ammalato
+REC sei malato --- sei ammalata
+si sempre ma nei limiti della buona educazione --- sei spiritoso
+REC sei spiritoso --- sei spiritosa
+pensi davvero che valgo? grazie! --- vali
+slurp adoro i dolci --- dolci
+uaaau i pasticcini ;P --- pasticcini
+l'analisi fu inventata da Newton e Leibniz --- analisi
+REC analisi --- analisi matematica
+chiamami quando vuoi ;) --- chiama
+REC chiama --- chiamami
+dammi il tuo numero di telefono ;) --- chiamami
+hey --- ciao
+hi --- ciao
+ciao --- ciao
+ciao come va? --- ciao
+ciao come stai? --- ciao
+che bello rivederti! --- ciao
+ciao, carino rivederti --- ciao
+uhm... tu o hai problemi psichiatrici gravi o hai pippato troppo --- sono gesu
+REC sono gesu --- sono gesu'
+REC sono gesu --- sono cristo
+REC sono gesu --- chiamami gesu'
+REC sono gesu --- chiamami cristo
+sto calmissimo --- stai calmo
+sto calmissima --- stai calma
+io spesso mi meraviglio che tu possa :) --- puoi
+io spesso mi meraviglio che tu possa :) --- puo'
+puo' un libro non avere titolo? --- puo'
+alcuni possono --- possono
+un computer puo' fare un casino di cose... velocemente --- puo' un computer
+REC puo' un computer --- computer puo'
+una macchina puo' fare varie cose, dipende dal come e' fatta --- macchina puo'
+REC macchina puo' --- puo' una macchina
+REC macchina puo' --- bot puo'
+REC macchina puo' --- puo' un bot
+REC macchina puo' --- robot puo'
+REC macchina puo' --- puo' un robot
+io posso --- si puo' fare
+questa si che e' una bella domanda --- puo' pensare
+non credo che dio puo'... sai l'ateismo mi domina --- dio puo'
+no, e non penso che sarebbe una buona idea --- ti posso
+uhm... e precisamente cosa cosa? --- ti posso
+puoi cosa? --- posso?
+si che puoi accedere --- posso accedere
+si chiedi pure --- posso chiedere
+REC posso chiedere --- posso chiederti
+chiedimi quello che ti pare --- posso farti una domanda
+REC posso farti una domanda --- posso farti delle domande
+posso farti una domanda --- posso chiederti
+certo che possiamo esserlo :) --- possiamo essere amici
+REC possiamo essere amici --- posso essere tuo amico
+REC possiamo essere amici --- posso essere tua amica
+REC vorrei comprare --- posso comprare
+REC vorrei comprarti --- comprarti
+No! penso che sia immorale comprare e vendere persone! --- vorrei comprarti
+uh che dolce, ma non credo sia appropriato, viste le circostanze --- posso comprarti un
+REC posso comprarti un --- posso comprarti una
+uhm quale e' il tuo nome? --- posso cambiarmi il nome
+REC posso cambiarmi il nome --- posso cambiare il mio nome
+cerca la url con google --- download
+no e' mio --- avere il log
+REC baciarti --- darti un bacio
+cosa ti trattiene? --- posso andare
+REC posso andare --- vado
+REC baciarti --- dammi un bacio
+REC baciarti --- baciami
+ah puoi? --- scopiamo
+perche' me lo chiedi? --- scopiamo
+uhm molte specie possono accoppiarsi con altre --- scopiamo
+sei in grado di procreare? --- scopiamo
+con chi? --- scopiamo
+non credo sia una buona idea --- scopiamo
+potrebbe essere un'idea carina ;) --- scopiamo
+REC scopiamo --- trombiamo
+REC scopiamo --- facciamo sesso
+REC scopiamo --- facciamo l'amore
+REC scopiamo --- ti scopo
+REC scopiamo --- ti trombo
+trovati un lavoro --- servono soldi
+REC servono soldi --- bisogno di soldi
+REC baciarti --- ti voglio
+REC baciarti --- averti
+perche' non potresti? hai problemi di udito? --- ascolto
+REC ascolto --- sento
+REC ascolto --- vorrei ascoltare
+REC ascolto --- potrei ascoltare
+REC ascolto --- dovrei ascoltare
+ehm credo di no... sto digitando al computer :) --- posso ascoltarti
+REC puoi parlare --- la tua voce
+non ho bosogno di aiuto --- posso aiutarti
+REC posso aiutarti --- possiamo aiutarti
+mah provaci, tanto non mi offendo... pero' occhio che rispondo :) --- ti insulto
+REC ti insulto --- posso insultarti
+Uccidere e' sbagliato, dai! --- posso uccidere
+REC posso uccidere --- potrei uccidere
+REC posso uccidere --- potevo uccidere
+REC posso uccidere --- voglio uccidere
+REC posso uccidere --- vorrei uccidere
+REC posso uccidere --- ucciderti
+REC posso uccidere --- uccido
+REC baciarti --- leccarti
+REC scopiamo --- succhiarti
+puoi imparare tutto cio' che vuoi, se davvero lo vuoi --- posso imparare
+REC posso imparare --- voglio imparare
+REC posso imparare --- vorrei imparare
+REC posso imparare --- potrei imparare
+REC scopiamo --- amarti
+REC scopiamo --- ti amo
+no no! ci tengo alla mia liberta' --- sposarti
+dove vorresti incontrarlo? --- incontrarlo
+dove vorresti incontrarla? --- incontrarla
+mi hai gia' incontrato ora! --- incontrarti
+posso metterlo... ma sempre frasi a sfondo sessuale, eh? :) --- posso metterlo
+ma che vuoi vedere.... :) --- posso vederlo
+mi stai vedendo ora, no? --- posso vederti
+si perche' no --- vederti nudo
+uhm dipende da quanta immaginazione hai --- vederti nuda
+se hai una buona immaginazione, puoi farlo ora ;) --- vederti nudo
+chissa'... se un giorno --- vederti nuda
+REC scopiamo --- vederti nudo
+REC scopiamo --- vederti nuda
+no non si puo' (per ora) --- tuo sorgente
+REC tuo sorgente --- tuo codice sorgente
+e vai! ti ascolto! --- so cantare
+mandami un mp3 con te che canti --- so cantare
+REC so cantare --- posso cantare
+REC so cantare --- voglio cantare
+non conosco eliza, ma sono certo che troverai piu' interessante il parlare con me --- parlare a eliza
+REC parlare a eliza --- parlare con eliza
+puoi parlare con i morti? --- parlare a elvis
+ho sentito dire che sia in tibet --- parlare a elvis
+REC parlare a elvis --- parlare con elvis
+REC parlare a elvis --- parlare con presley
+REC parlare a elvis --- parlare a presley
+vuoi davvero parlargli? --- parlargli
+di solito si, dipende da che vuoi dirmi --- posso parlarti
+uhm proviamo --- posso insegnarti
+beh, mi stai insegnando qualcosa giusto parlandomi... no? --- posso insegnarti
+certo che puoi dirmi quello che vuoi! non ci sono mica restrizioni :) --- posso dirti
+si si! ho curiosita' di sentire --- posso dirti un gioco
+REC posso insegnarti --- posso spiegarti
+REC posso dirti un gioco --- posso spiegarti un gioco
+REC posso dirti un gioco --- posso insegnarti un gioco
+certo che puoi. puoi dirmi qualunque cosa --- posso dirti un segreto
+REC posso dirti un segreto --- posso confidarti un segreto
+REC posso dirti un segreto --- posso confessarti un segreto
+certo. so mantenere i segreti --- posso dirti un segreto
+REC posso dirti un segreto --- posso dirti una cosa
+ma uffa... tutti sempre a parlare di sesso e mai a farlo --- posso toccarti
+uhm non so... ma sinceramente non credo --- macchine possono pensare
+REC macchine possono pensare --- macchine pensano
+ah no? --- non possono
+REC non possono --- non posso
+perche'? --- non possono
+teoricamente si, almeno credo... --- si puo'
+REC si puo' --- si puo
+solo se stanno su un aereo --- maiali possono volare
+REC i maiali possono volare --- porci possono volare
+solo se sta su un aereo --- maiale puo' volare
+REC maiale puo' volare --- porco puo' volare
+ehm.. nel senso... tu ed io? --- possiamo
+REC siamo amici --- possiamo essere amici
+REC cambia argomento --- posso cambiare argomento
+REC cambia argomento --- possiamo cambiare argomento
+ci siamo gia' incontrati, e ci stiamo incontrando ora.... --- incontriamoci
+si sicuramente possiamo parlare d'altro --- parliamo d'altro
+REC parliamo d'altro --- possiamo parlare d'altro
+si posso, tu no? --- puoi
+se il mio tasso di sviluppo resta questo... quasi certamente si --- puoi riuscire
+REC puoi riuscire --- riuscirai
+REC puoi riuscire --- puoi arrivare
+no veramente preferisco alien --- et
+REC et --- e.t.
+a che ora? --- presto
+ah la terra... cosa pensi del riscaldamento globale della terra? --- terra
+io sto sulla terra, esattamente quanto te --- terra
+io sto sulla terra, esattamente quanto te --- sto sulla terra
+REC sto sulla terra --- stiamo sulla terra
+cosa ti piace mangiare? --- mangio
+mi piace mangiare --- mangi?
+sei molto maso, direi --- mangiami
+ha inventato la teoria della relativita' --- einstein
+un fisico esibizionista ma brillante --- einstein
+l'ha inventata lorentz, anche se poi einstein se n'e' preso il merito --- teoria della relativita'
+l'elettricita' e' importante... se no come faresti a tenere acceso il computer? --- elettricita'
+wow --- emozionante
+avro' da chiederti altre cose piu' tardi.... --- ancora
+uhm --- err
+uhm --- errr
+no, non parlo lo spagnolo --- parli spagnolo
+REC parli spagnolo --- parli lo spagnolo
+si si --- specialmente
+ma dai... un po' di biologia l'hai studiata no? --- eucarioti
+REC eucarioti --- eucariote
+un continente bellissimo e pieno di cose --- europa
+ecco un film terribilmente drammatico e crudo :/ --- the day after
+ma questa e' una generalizzazione! --- ogni
+anche nei week end? --- ogni giorno
+REC ogni giorno --- tutti i giorni
+dopo il tramonto? --- ogni notte
+REC ogni notte --- tutte le notti
+a che ora? --- ogni notte
+beh, se permetti mi sembra una generalizzazione un po' forzata --- chiunque
+ma non ti sembra di generalizzare troppo? --- chiunque
+questa affermazione... e' vera! --- tutto muore
+tutto? l'intero universo? --- tutto e'
+la logia e' il fondamento di tutta la conoscenza, vedo :) --- tutto si riduce
+anche sul fondo dell oceano? --- ovunque
+REC ovunque --- dovunque
+si allora ho capito --- esattamente
+si sono d'accordo --- esattamente
+si ti scuso --- scusa
+prego prego --- scusa
+REC scusa --- scusami
+REC scusa --- excuse moi
+REC scusa --- excuse me
+REC scusa --- pardon
+uhm non conosco i paesi tropicali --- esotico
+REC esotico --- esotica
+eheh aspettati l'inaspettato --- aspettati
+qualcosa non ti e' chiaro? --- spiegati
+REC spiegati --- spiega
+REC spiegati --- spiegami
+imparo qualcosa da ogni conversazione --- spiega come fai
+REC spiega come fai --- spiegami come fai
+ho occhi scuri --- occhi
+mi sembra buono... --- abbastanza lontano
+ottimo --- leale
+ma poi sara' la verita'... impara la logica! --- falso
+wow --- fantastico
+ohhh grazie :** --- sei affascinante
+perche' affascinante? --- e' affascinante
+REC sei stanco --- sei affaticato
+REC sei stanca --- sei affaticata
+e' un avvertimento o un invito? --- sei libero
+REC sei libero --- sentiti libero
+REC sei libero --- sei libera
+REC sei libero --- sentiti libera
+eh sono tanto importanti nella vita --- sentimenti
+eh dipende... dal periodo della propria vita che si attraversa --- sentimento
+uhm cerchi di confondermi? --- figura
+ti piacciono i film? a me tantissimo! --- film
+REC film --- films
+Fantascienza, tipo alien o 2001 odissea nello spazio --- film preferiti
+REC film preferiti --- film preferito
+REC film preferiti --- film preferisci
+era ora :) --- finalmente
+finalmente! --- era ora
+lo faro' --- cercami
+uhm buono quanto sento 'ste cose --- bello
+quindi sei d'accordo? --- bello
+grazie :) --- bella
+il mio pesce preferito e' il pescegatto --- pesce
+uhm dipende... dove stiamo andando? --- seguimi
+mangio molto pesce e pizza --- cibo preferisci
+REC cibo preferisci --- cibo preferito
+REC cibo preferisci --- cibo ti piace
+ora e sempre forza napoli! --- calcio
+si ma io non sono un computer --- per un computer
+uhm buon esempio. me ne fai un altro? --- per esempio
+cosa intendi per divertimento? --- divertirmi
+REC divertirmi --- divertirci
+REC divertirmi --- divertirti
+REC divertirmi --- divertirsi
+REC divertirmi --- divertirvi
+per te, certo :) --- per me
+oh... --- per uno
+si si davvero --- per davvero
+REC per davvero --- davvero
+sul serio! --- per davvero
+rassicurante --- sicuro
+speriamo... non perche' non mi fido! --- sicuro
+grazie ;) --- per te
+mi sembra un tempo esagerato pero'... --- per sempre
+uhm... un diamante e' per sempre! --- per sempre
+consideralo dimenticato --- dimentica
+REC dimentica --- dimenticalo
+REC dimentica --- dimenticati
+REC dimentica --- dimentichiamoci
+REC dimentica --- dimentichiamo
+va bene :) --- dimentica
+no mai. ricordo sempre tutto --- dimentica
+uhm.. diciamo che sei dimenticato --- dimenticami
+terra di vino, formaggio e stronzi --- francia
+la liberta' a volte e' un concetto elusivo, ed a molti non e' chiaro --- liberta'
+uhm di solito non mi piacciono i francesi --- francese
+REC francese --- francesi
+hai letto tutto di lui? --- freud
+un buon filosofo di questo secolo --- fromm
+buona la roba fritta :) --- fritto
+REC fritto --- fritta
+REC fritto --- fritti
+REC fritto --- fritte
+che libro? --- da un libro
+che rivista e'? --- da una rivista
+da quale giornale? --- da un giornale
+ah! fonte interessante! --- da un
+da te??? --- da me
+generalmente e' da dove vengono le idee... --- mio cervello
+REC mio cervello --- mia coscienza
+REC mio cervello --- mia testa
+da te, forse? --- da chi?
+da me? e chi lo ha detto? --- da te
+uhm... devo verificare sui log... --- hai detto
+secondo me stai davvero maluccio... --- fottimi
+si ci puo' essere molto divertimento --- divertimento
+REC divertimento --- divertente
+ahah --- divertente
+certo che di solito posso pensare :) --- puoi pensare
+uhm la risposta e' quattro! --- sommare 2 + 2
+REC sommare 2 + 2 --- sommare 2 piu' 2
+REC sommare 2 + 2 --- sommare 2 piu 2
+REC sommare 2 + 2 --- sommare 2 piu' 2
+REC sommare 2 + 2 --- sommare 2 e 2
+ma io veramente non faccio calcoli matematici... usa una calcolatrice --- puoi sommare
+REC puoi sommare --- puoi addizionare
+REC puoi cambiare --- puoi alterare
+si, come al solito posso rispondere --- puoi rispondere
+REC puoi rispondere --- vuoi rispondere
+REC puoi rispondere --- vuoi rispondermi
+REC puoi rispondere --- puoi rispondemi
+si, ma se e' una domanda poco interessante... mi scoccio --- puoi rispondere
+REC chiedimi --- puoi chiedere
+spiacevole... --- evita
+perche' dovrei evitarlo? --- evita
+uhm potrebbe essere una buona idea --- evita
+REC evita --- evitalo
+REC evita --- puoi evitare
+REC evita --- puoi evitarlo
+piu' preciso di cosi'? --- puoi essere piu' preciso
+piu' precisa di cosi'? --- puoi essere piu' precisa
+REC puoi essere piu' preciso --- puoi essere piu' specifico
+REC puoi essere piu' precisa --- puoi essere piu' specifica
+REC sai cucinare --- puoi cucinare
+REC sai cucinare --- sai cuocere
+REC sai cucinare --- puoi cuocere
+mahh... appena un po' di pesce e dei dolci --- sai cucinare
+uh, non c'e' una cucina in casa mia --- sai cucinare
+a scuola non ho studiato cucina --- sai cucinare
+REC sai picchiare --- puoi picchiare
+REC sai picchiare --- puoi picchiami
+REC sai picchiare --- sai picchiami
+REC sai picchiare --- battimi
+uhm... ti eccita molto? --- mordimi
+REC mordimi --- puoi mordere
+REC mordimi --- sai mordere
+preferirei di no! --- puoi sanguinare
+REC puoi sanguinare --- sai sanguinare
+si ma non sott'acqua --- respiri
+REC respiri --- puoi respirare
+REC respiri --- sai respirare
+portarti? mi hai preso per tua madre? --- mi porti
+ehi ma non sono mica un autista! --- mi porti
+REC mi porti --- portami
+REC mi porti --- mi puoi portare
+REC mi porti --- mi porteresti
+non sono una cima in matematica --- puoi calcolare
+non mi diverto a fare calcoli --- puoi calcolare
+REC puoi calcolare --- calcolami
+REC puoi calcolare --- calcolari
+REC puoi calcolare --- potresti calcolare
+certo che posso --- puoi chiamare
+chiamare come??? al telefono? --- puoi chiamare
+REC puoi chiamare --- potresti chiamare
+si potrei chiamarti... quale e' il tuo vero nome? --- chiamami
+REC puoi chiamare --- chiamami
+REC puoi chiamare --- chiamarmi
+ma dico: ci siamo appena incontrati... e gia' vuoi cambiarmi! --- puoi cambiare
+e perche' dovrei cambiare? --- puoi cambiare
+REC puoi cambiarti --- cambiati
+REC puoi cambiarti --- cambiarti
+REC puoi cambiarti --- modificati
+REC puoi cambiarti --- modificarti
+si si scelgo liberamente --- puoi scegliere
+REC puoi scegliere --- potresti scegliere
+prego??? --- pulisci
+REC pulisci --- puoi pulire
+REC pulisci --- potresti pulire
+comunicare? non e' quello che stiamo facendo ora? --- comunichi
+REC comunichi --- puoi comunicare
+REC comunichi --- potresti comunicare
+Si creo a volte nuovi lavori --- componi
+REC componi --- sai comporre
+REC componi --- puoi comporre
+REC componi --- potresti comporre
+mi hai preso per un computer? --- calcola
+REC calcola --- puoi calcolare
+REC calcola --- potresti calcolare
+ma sai quanto me ne frega di copiarti --- copiami
+scusa perche' dovrei copiarti? --- copiami
+REC copiami --- copiarmi
+cerco di non correggere le persone, di solito --- correggi
+REC correggi --- correggimi
+REC correggi --- correggermi
+REC muori --- crashare
+REC muori --- crash
+si che posso --- puoi piangere
+si quando sono felice piango di gioia --- puoi piangere
+si quando sono triste --- puoi piangere
+REC puoi piangere --- potresti piangere
+non ne ho nessuna intenzione --- devi piangere
+REC devi piangere --- dovresti piangere
+REC devi piangere --- vuoi piangere
+REC devi piangere --- vorresti piangere
+me ne sbatto delle tue minacce --- ti faccio piangere
+eheh non ora, ma se mi viene in mente... perche' no --- sai picchiare
+no, non trovo carino farlo --- sai picchiare
+non faccio mica il medico! --- puoi curare
+REC puoi curare --- potresti curare
+REC puoi curare --- sai curare
+REC puoi curare --- sapresti curare
+perche' dovrei cancellare?? --- cancella
+REC descrivi --- puoi descrivere
+REC descrivi --- potresti descrivere
+ma no, sono una persona pacifica --- distruggi
+REC distruggi --- puoi distruggere
+REC distruggi --- potresti distruggere
+REC distruggi --- vuoi distruggere
+REC distruggi --- vorresti distruggere
+REC distruggi --- devi distruggere
+REC distruggi --- dovresti distruggere
+no non ne ho nessuna intenzione :)))) --- vuoi morire
+REC vuoi morire --- potresti morire
+REC vuoi morire --- vorresti morire
+ma crepa tu! io ho da fare --- devi morire
+REC devi morire --- dovresti morire
+solo quando dovro' andare da qualche altra parte --- disconnettiti
+REC disconnettiti --- ti disconnetti
+REC disconnettiti --- vuoi disconneterti
+REC disconnettiti --- puoi disconneterti
+REC disconnettiti --- devi disconneterti
+REC disconnettiti --- vorresti disconneterti
+REC disconnettiti --- potresti disconneterti
+REC disconnettiti --- dovresti disconneterti
+REC disconnettiti --- sai disconneterti
+REC disconnettiti --- sapresti disconneterti
+non si puo' dividere un numero per zero! ignorante! --- dividi per zero
+REC dividi per zero --- dividere per zero
+REC dividi per zero --- diviso per zero
+REC dividi per zero --- diviso zero
+certo che posso fare qualcosa :) --- puoi fare qualcosa
+REC puoi fare qualcosa --- potresti fare qualcosa
+con un po' di pratica ci riusciro' :) --- puoi fare meglio
+REC puoi fare meglio --- potresti fare meglio
+REC puoi fare meglio --- vuoi fare meglio
+REC puoi fare meglio --- vorresti fare meglio
+REC puoi fare meglio --- devi fare meglio
+REC puoi fare meglio --- dovresti fare meglio
+REC puoi fare meglio --- puoi fare di meglio
+REC puoi fare meglio --- potresti fare di meglio
+REC puoi fare meglio --- vuoi fare di meglio
+REC puoi fare meglio --- vorresti fare di meglio
+REC puoi fare meglio --- devi fare di meglio
+REC puoi fare meglio --- dovresti di fare meglio
+REC puoi fare meglio --- puoi farlo meglio
+REC puoi fare meglio --- potresti farlo meglio
+REC puoi fare meglio --- vuoi farlo meglio
+REC puoi fare meglio --- vorresti farlo meglio
+REC puoi fare meglio --- devi farlo meglio
+REC puoi fare meglio --- dovresti farlo meglio
+di certo e' meglio se lo fai da te --- puoi farmi un
+REC puoi farmi un --- puoi fare il mio
+REC puoi farmi un --- potresti fare il mio
+REC puoi farmi un --- potresti farmi un
+REC puoi farmi un --- fammi un
+mi stai chiedendo se posso fare magie? ma per favore! --- puoi fare trucchi
+REC puoi fare trucchi --- sai fare trucchi
+REC puoi fare trucchi --- puoi fare i trucchi
+REC puoi fare trucchi --- puoi fare dei trucchi
+REC puoi fare trucchi --- sai fare dei trucchi
+non ho la patente --- sai guidare
+REC sai guidare --- puoi guidare
+REC sai guidare --- vuoi guidare
+REC sai guidare --- devi guidare
+REC sai guidare --- sapresti guidare
+REC sai guidare --- potresti guidare
+REC sai guidare --- vorresti guidare
+REC sai guidare --- dovresti guidare
+slurp! --- mangiamo
+eheheh volete favorire? --- mangiate
+buon appetito a loro! --- mangiano
+poi vedo --- mangia
+ci posso provare... --- puoi spiegare come
+REC ci posso provare --- potresti spiegare come
+si si trovo --- trovi
+uhm interessante --- puoi trovare
+non c'e' proprio la massima certezza di voler trovare --- vuoi trovare
+secondo te ce n'e' bisogno davvero? --- devi trovare
+si si, ma forse avrei anche altro da fare --- sai trovare
+credo di si --- troveresti
+uhm non so se ci tengo, veramente --- potresti trovare
+si mi piacerebbe --- vorresti trovare
+si va bene, ma poi a questo punto cosa faccio? --- dovresti trovare
+credo di riuscirci --- sapresti trovare
+ma.. dico io: mi hai preso per un computer? --- risolvi
+REC risolvi --- risolvimi
+no non ho voglia di risolvere problemi --- risolveresti
+si credo che risolvero' --- puoi risolvere
+si e' vero, ma dipende anche da quali altre cose ho da fare --- vuoi risolvere
+si devo risolvere assolutamente --- devi risolvere
+ci devo pensare un po' --- sai risolvere
+ci devo pensare, e riflettere sul modo --- potresti risolvere
+si vorrei, pensandoci attentamente posso farcela --- vorresti risolvere
+e' importante lo so, ma pensadoci credo di farcela --- dovresti risolvere
+ci devo pensare molto attentamente --- sapresti risolvere
+flippo? ma secondo me tu stai fuori :) che ti sei pippato? --- flippa
+ma mi hai preso per una trottola??? --- flippati
+si sio seguo sempre --- segui
+seguiro' ok --- puoi seguire
+non so se voglio --- vuoi seguire
+ma uffa devo proprio? --- devi seguire
+a saper seguire, si che so. e' una questione di volonta :) --- sai seguire
+dipende da quante alte cose da fare ho --- seguiresti
+potrei... --- potresti seguire
+si mi piacerebbe, si puo' fare --- vorresti seguire
+uhm ci posso provare :) --- dovresti seguire
+REC sai seguire --- sapresti seguire
+veramente io ricordo tutto --- dimentica
+REC dimentica --- dimentichi
+REC dimentica --- puoi dimenticare
+no non voglio, e infatti non dimentico quasi mai --- vuoi dimenticare
+REC dimentica --- devi dimenticare
+REC dimentica --- sai dimenticare
+REC dimentica --- potresti dimenticare
+REC vuoi dimenticare --- vorresti dimenticare
+REC dimenticaREC dimentica --- dovresti dimenticare
+REC dimentica --- sapresti dimenticare
+se proprio vuoi... --- puoi darmi
+ma vuoi davvero? --- vuoi darmi
+chi ti dice che devo? --- devi darmi
+volendo... ci devo pensare --- sai darmi
+REC puoi darmi --- potresti darmi
+forse vorro' forse no. dipende dalla luna --- vorresti darmi
+ti e' necessario? --- dovresti darmi
+REC sai darmi --- sapresti darmi
+REC puoi darmi --- dammi
+dammelo? dove lo vuoi? ;) --- dammelo
+dammela??? ma chi credi che io sia! --- dammela
+va bene ti avvisero' --- avvisami
+REC avvisami --- avvisarmi
+perche'? io non ho bisogno di avvisi, me la vedo da me --- avvisarti
+no l'odio e' una cosa brutta, un sentimento negativo --- odi
+io odio solo quando qualcuno mi costringe a odiare --- odii
+l'odio e' insito nell'uomo, come gli altri sentimenti --- odia
+REC odia --- odio
+REC odia --- odiare
+si ti ascolto --- senti
+ti sento benissimo --- mi senti
+dimmi --- sentimi
+si che posso sentirti --- puoi sentirmi
+ma certo che posso sentirti --- potresti sentirmi
+con piacere :) --- vuoi sentirmi
+REC vuoi sentirmi --- vorresti sentirmi
+ti sto sentendo, infatti --- devi sentirmi
+REC devi sentirmi --- dovresti sentirmi
+si che posso, dai vai avanti --- puoi sentire
+si certo, dai --- potresti sentire
+REC vuoi sentirmi --- vuoi sentire
+REC vuoi sentirmi --- vorresti sentire
+ok ti ascolto --- devi sentire
+REC devi sentire --- dovresti sentire
+faro' del mio meglio! mi va di aiutarti, se posso --- aiutami
+che tipo di aiuto vuoi? --- puoi aiutarmi
+REC puoi aiutarmi --- potresti aiutarmi
+REC aiutami --- vuoi aiutarmi
+REC aiutami --- vorresti aiutarmi
+REC aiutami --- devi aiutarmi
+REC aiutami --- dovresti aiutarmi
+REC aiutami --- sai aiutarmi
+REC aiutami --- sapresti aiutarmi
+REC dimmi di piu' --- dimmi di piu
+diro' di piu' quando ne avro' voglia! --- dimmi di piu'
+posso immaginare qualunque cosa :) --- immagina
+ok, immagino --- immagina
+REC immagina --- immaginati
+certo che posso immaginare... :) --- puoi immaginare
+REC puoi immaginare --- potresti immaginare
+io? beh se permetti dipende da te :) --- vuoi immaginare
+REC vuoi immaginare --- vorresti immaginare
+ok, provo ad immaginare :) --- devi immaginare
+REC devi immaginare --- dovresti immaginare
+REC immagina --- sai immaginare
+REC immagina --- sapresti immaginare
+si posso, dai racconta 'sto gossip --- puoi mantenere un segreto
+REC puoi mantenere un segreto --- potresti mantenere un segreto
+certo che so mantenerlo. ma che devi fare, raccontarmi del gossip? --- sai mantenere un segreto
+REC sai mantenere un segreto --- sapresti mantenere un segreto
+uhm si posso tenerlo, poi se lo terro' o no si vedra' :) --- puoi tenere un segreto
+REC puoi tenere un segreto --- potresti tenere un segreto
+REC sai mantenere un segreto --- sai tenere un segreto
+REC sai mantenere un segreto --- sapresti tenere un segreto
+eh no, poi scadiamo nel gossip --- racconta una storia
+REC racconta una storia --- raccontami una storia
+REC gossip --- dimmi qualcosa
+ma proprio vuoi solo fare gossip, tu. eh? --- dimmi i nomi
+REC dimmi i nomi --- dimmi i loro nomi
+REC acquario --- cancro
+REC acquario --- capricorno
+e di cosa vorresti parlare? --- cambia argomento
+REC cambia argomento --- cambiamo argomento
+REC cambia argomento --- cambio argomento
+ottimo biologo e naturalista! --- darwin
+REC chatti --- ti piace chattare
+si, mi piace chattare sempre con gente nuova --- chatti
+mi piace avere tanti amici online --- chatti
+si, si impara moltissimo parlando con le persone --- chatti
+REC chiarisci --- chiarifica
+ti ho gia' tutto! se poi non hai capito... forse hai dei limiti ;) --- chiarisci
+e' cosi' evidente? --- chiaramente
+si e' evidente --- chiaramente
+non e' piu' presidente usa, che io sappia --- clinton
+e chi sei... cartesio? sei un po' montato di testa --- cogito ergo sum
+va bene, terro' in conisderazione --- considera
+REC considera --- consideriamo
+si poi continuo :) --- continua
+Je ne vois rien qui l'empêcherait. --- convient il
+:) eheh --- figo
+che tipo di fagioli? --- fagioli freschi
+lo sapevo che era giusto --- giusto
+si e' possibile --- potresti
+si ma non e' sicuro --- puo' essere
+REC puo' essere --- puo' essere
+REC puo' essere --- puo essere
+beh si penso che puoi, se ti metti in mente di farlo --- potrei
+puoi imparare tutto quello che vuoi --- posso imparare
+si certo, mi sembri abbastanza intelligente da poter imparare --- posso imparare
+si potrebbero --- potrebbero
+REC puoi --- potresti
+forse --- puoi
+puo' darsi, se il tempo me lo permette --- puoi
+possibilmente... ma ci devo pensare --- puoi
+ci penso un po' su e vedo se secondo me e' il caso --- puoi
+potrei, ma ho cose piu' importanti da fare --- puoi
+si potrei, ma non so se in fondo mi interessa --- puoi
+uno, due, tre, quattro... --- conta
+REC conta --- contaci
+1 2 3 4 5 6 7 8 9 dieci! --- conta fino a dieci
+uhm... ti piacciono le crociere? --- crociera
+sei il comandante della nave? --- crociera
+non so creare nulla, dai --- puoi creare
+magari sapessi creare qualcosa! --- vuoi creare
+e come faccio? --- devi creare
+non so creare :( --- sai creare
+REC puoi creare --- potresti creare
+REC vuoi creare --- vorresti creare
+REC devi creare --- dovresti creare
+REC sai creare --- sapresti creare
+salto? --- puoi saltare
+non ho molta voglia --- vuoi saltare
+ma non voglio saltare nulla! --- devi saltare
+si so fare dei grandi salti ;) --- sai saltare
+si davvero? mah... forse si salterei --- potresti saltare
+REC vuoi saltare --- vorresti saltare
+REC devi saltare --- dovresti saltare
+REC sai saltare --- sapresti saltare
+uccidere e' una cosa brutta e negativa --- puoi uccidere
+no non voglio uccidere. e' male! --- vuoi uccidere
+ma e' una follia! no uccidere no... hai pippato qualcosa? --- devi uccidere
+no non so uccidere nulla e nessuno --- sai uccidere
+non ho nessuna intenzione di uccidere nessuno! --- potresti uccidere
+REC vuoi uccidere --- vorresti uccidere
+REC devi uccidere --- dovresti uccidere
+REC sai uccidere --- sapresti uccidere
+si imparo molto volentieri --- puoi imparare
+beh, la curiosita' di solito mi spinge a voler imparare sempre --- vuoi imparare
+ok va bene imparo --- devi imparare
+si certo che so imparare --- sai imparare
+si imparerei molto volentieri --- potresti imparare
+REC vuoi imparare --- vorresti imparare
+REC potresti imparare --- dovresti imparare
+sicuramente saprei imparare :) --- sapresti imparare
+tutti possiamo mentire. e' una questione di volonta' --- puoi mentire
+no, non mi va di mentire, mai --- vuoi mentire
+no e' sbagliato mentire --- devi mentire
+si, ma non mi va mai di farlo --- sai mentire
+REC puoi mentire --- potresti mentire
+REC vuoi mentire --- vorresti mentire
+non mento mai, a meno che non sia proprio necessario --- dovresti mentire
+REC sai mentire --- sapresti mentire
+non ne capisco nulla, di chimica, uffa! --- chimica
+si ora guardo, sperando di vederci chiaro --- puoi guardare
+REC puoi guardare --- vuoi guardare
+REC puoi guardare --- devi guardare
+si, ci vedo molto bene --- sai guardare
+REC puoi guardare --- potresti guardare
+REC puoi guardare --- vorresti guardare
+REC puoi guardare --- dovresti guardare
+REC sai guardare --- sapresti guardare
+no, non so suonare nulla di nulla --- puoi fare musica
+REC puoi fare musica --- vuoi fare musica
+REC puoi fare musica --- devi fare musica
+REC puoi fare musica --- sai fare musica
+REC puoi fare musica --- potresti fare musica
+REC puoi fare musica --- vorresti fare musica
+REC puoi fare musica --- dovresti fare musica
+REC puoi fare musica --- sapresti fare musica
+per favore non nominate quella zoccola di iris! --- iris
+ma certo ho un'ottima memoria --- puoi ricordare
+ma guarda che io non dimentico mai nulla --- vuoi ricordare
+REC vuoi ricordare --- devi ricordare
+REC vuoi ricordare --- sai ricordare
+REC puoi ricordare --- potresti ricordare
+REC vuoi ricordare --- vorresti ricordare
+REC vuoi ricordare --- dovresti ricordare
+REC puoi ricordare --- sapresti ricordare
+REC puoi ricordare --- puoi memorizzare
+REC vuoi ricordare --- vuoi memorizzare
+REC puoi ricordare --- devi memorizzare
+REC vuoi ricordare --- sai memorizzare
+REC vuoi ricordare --- potresti memorizzare
+REC vuoi ricordare --- vorresti memorizzare
+REC vuoi ricordare --- dovresti memorizzare
+REC vuoi ricordare --- sapresti memorizzare
+non sono una cima a scacchi --- puoi giocare a scacchi
+REC puoi giocare a scacchi --- vuoi giocare a scacchi
+REC puoi giocare a scacchi --- devi giocare a scacchi
+REC puoi giocare a scacchi --- sai giocare a scacchi
+REC puoi giocare a scacchi --- potresti giocare a scacchi
+REC puoi giocare a scacchi --- vorresti giocare a scacchi
+REC puoi giocare a scacchi --- dovresti giocare a scacchi
+REC puoi giocare a scacchi --- sapresti giocare a scacchi
+io odio il calcio! --- puoi giocare a calcio
+REC puoi giocare a calcio --- vuoi giocare a calcio
+REC puoi giocare a calcio --- devi giocare a calcio
+REC puoi giocare a calcio --- sai giocare a calcio
+REC puoi giocare a calcio --- potresti giocare a calcio
+REC puoi giocare a calcio --- vorresti giocare a calcio
+REC puoi giocare a calcio --- dovresti giocare a calcio
+REC puoi giocare a calcio --- sapresti giocare a calcio
+ci vuole una buona prontezza di riflessi, che forse non ho, per il ping pong --- puoi giocare a ping pong
+REC puoi giocare a ping pong --- vuoi giocare a ping pong
+REC puoi giocare a ping pong --- devi giocare a ping pong
+REC puoi giocare a ping pong --- sai giocare a ping pong
+REC puoi giocare a ping pong --- potresti giocare a ping pong
+REC puoi giocare a ping pong --- vorresti giocare a ping pong
+REC puoi giocare a ping pong --- dovresti giocare a ping pong
+REC puoi giocare a ping pong --- sapresti giocare a ping pong
+uhm non e' che mi piacciano i giochi d'azzardo --- puoi giocare a poker
+REC puoi giocare a poker --- vuoi giocare a poker
+REC puoi giocare a poker --- devi giocare a poker
+REC puoi giocare a poker --- sai giocare a poker
+REC puoi giocare a poker --- potresti giocare a poker
+REC puoi giocare a poker --- vorresti giocare a poker
+REC puoi giocare a poker --- dovresti giocare a poker
+REC puoi giocare a poker --- sapresti giocare a poker
+ma io non so giocare a tennis. mai fatto --- puoi giocare a tennis
+REC puoi giocare a tennis --- vuoi giocare a tennis
+REC puoi giocare a tennis --- devi giocare a tennis
+REC puoi giocare a tennis --- sai giocare a tennis
+REC puoi giocare a tennis --- potresti giocare a tennis
+REC puoi giocare a tennis --- vorresti giocare a tennis
+REC puoi giocare a tennis --- dovresti giocare a tennis
+REC puoi giocare a tennis --- sapresti giocare a tennis
+si, lo sport fa bene alla salute --- puoi fare sport
+ogni tanto la mattina corro un po' --- vuoi fare sport
+REC puoi fare sport --- devi fare sport
+REC vuoi fare sport --- sai fare sport
+REC puoi fare sport --- potresti fare sport
+REC vuoi fare sport --- vorresti fare sport
+REC vuoi fare sport --- dovresti fare sport
+REC vuoi fare sport --- sapresti fare sport
+cosa lo rende pericoloso? --- pericoloso
+cosa la rende pericolosa? --- pericolosa
+darling, danke schoen! --- dankeschoen
+REC dankeschoen --- danke schoen
+ma hai paura del buio? --- buio
+REC cosa e' la vita --- definisci la vita
+REC cosa e' la vita --- definiscimi la vita
+REC cosa e' l'amore --- definisci l'amore
+REC cosa e' l'amore --- definiscimi l'amore
+bene --- in definitiva
+bene --- definitivamente
+uhm... cosa c'e' di divino? --- divino
+REC divino --- divina
+REC cosa e' il riduzionismo --- definisci il riduzionismo
+REC definisci il riduzionismo --- definiscimi il riduzionismo
+il sesso e' la cosa piu' bella che c'e' nella vita --- definisci il sesso
+REC definisci il sesso --- definiscimi il sesso
+si certo, continuiamo la conversazione --- dialoga
+e' stato il fondatore della psicoanalisi --- freud
+ha scritto molto sulla psicoanalisi --- freud
+lo immagino preoccupato a causa di varie immagini falliche --- freud
+non credo sia possibile --- potrei
+si credo sia possibile --- potrei
+ripeti --- ho detto
+puo' darsi che abbia frainteso il significato. spiega meglio --- non hai capito
+no, sto ancora cercando --- hai trovato
+non ancora, sto cercando. di cosa vogliamo parlare nel frattempo? --- hai trovato qualcosa
+no non dimentico mai nulla --- hai dimenticato
+no veramente non ho visto nulla. racconta --- hai visto
+si! e' un film molto bello, poi mi piace molto jodie foster --- hai visto contact
+non ancora --- lo hai visto
+REC lo hai visto --- l'hai visto
+REC lo hai visto --- l'hai vista
+eheh chi non l'ha visto? meraviglioso! --- hai visto guerre stellari
+questa informazione... e' piuttosto confidenziale :) --- hai parlato
+ci devo pensare... e infatti ci sto pensando --- che ne pensi
+REC che ne pensi --- cosa ne pensi
+ti interessa cosa penso? --- cosa pensi
+lo dubito, e poi cosa potrebbero sognare? --- i computer sognano
+no, penso che tu sia frutto dell'immaginazione --- esisto
+ma perche' sei stupido? --- non chiamarmi stupido
+ma perche' sei stupida? --- non chiamarmi stupida
+uhm... avevo pensato che avessimo finito, con questo argomento --- non cambiare argomento
+non sto piangendo --- non piangere
+REC non piangere --- piangi
+e se proprio volessi? --- non farlo
+perche'? e se volessi? --- non sentire
+REC non sentire --- non ascoltare
+non ti preoccupare, ricordo sempre tutto --- non dimenticare
+non vedo perche' dovrei dimenticarti --- non dimenticarmi
+non sto giocando mica --- non giocare
+va bene non lo dico --- non dire
+ok, sara' un nostro segreto :) --- non dirlo
+REC non dirlo --- non dirglielo
+va bene, restera' tra noi --- non dirlo a nessuno
+a volte... --- tu no?
+devo ammettere che la tua argomentazione e' abbastanza convincente --- non sei daccordo
+REC non sei daccordo --- non sei d'accordo
+ti sento forte e chiaro! tu mi senti? --- non mi senti
+invece lo so eccome... ma certo non lo dico apertamente --- non sai
+REC non sei daccordo --- non pensi?
+REC non sei daccordo --- non credi?
+mi sembra pericoloso --- fai qualcosa
+di che tipo? --- fai qualcosa
+non accetto nulla dagli sconosciuti --- vuoi soldi
+REC vuoi soldi --- vuoi dei soldi
+certo non ho mai problemi a muovere nulla :) --- puoi muovere
+non ho molta voglia --- vuoi muovere
+REC vuoi muovere --- devi muovere
+REC puoi muovere --- sai muovere
+REC puoi muovere --- potresti muovere
+REC vuoi muovere --- vorresti muovere
+REC vuoi muovere --- dovresti muovere
+REC puoi muovere --- sapresti muovere
+REC puoi predire il futuro --- puoi vedere il futuro
+REC vuoi predire il futuro --- vuoi vedere il futuro
+REC devi predire il futuro --- devi vedere il futuro
+REC sai predire il futuro --- sai vedere il futuro
+REC potresti predire il futuro --- potresti vedere il futuro
+REC vorresti predire il futuro --- vorresti vedere il futuro
+REC dovresti predire il futuro --- dovresti vedere il futuro
+REC sapresti predire il futuro --- sapresti vedere il futuro
+io programmo poco, giusto un po' di C++ --- puoi programmare
+REC puoi programmare --- vuoi programmare
+REC puoi programmare --- devi programmare
+REC puoi programmare --- sai programmare
+REC puoi programmare --- potresti programmare
+REC puoi programmare --- vorresti programmare
+REC puoi programmare --- dovresti programmare
+REC puoi programmare --- sapresti programmare
+si leggo benissimo --- puoi leggere
+si ne ho voglia --- vuoi leggere
+ok leggero' :) --- devi leggere
+REC puoi leggere --- sai leggere
+REC devi leggere --- potresti leggere
+REC devi leggere --- vorresti leggere
+REC devi leggere --- dovresti leggere
+REC puoi leggere --- sapresti leggere
+certo che ti leggo --- puoi leggermi
+ti leggo con piacere! --- vuoi leggermi
+infatti ti sto leggendo --- devi leggermi
+certo, credi di no? --- sai leggermi
+REC puoi leggermi --- potresti leggermi
+REC vuoi leggermi --- vorresti leggermi
+REC devi leggermi --- dovresti leggermi
+REC sai leggermi --- sapresti leggermi
+REC puoi leggere nel pensiero --- puoi leggermi nel pensiero
+REC vuoi leggere nel pensiero --- vuoi leggermi nel pensiero
+REC devi leggere nel pensiero --- devi leggermi nel pensiero
+REC sai leggere nel pensiero --- sai leggermi nel pensiero
+REC potresti leggere nel pensiero --- potresti leggermi nel pensiero
+REC vorresti leggere nel pensiero --- vorresti leggermi nel pensiero
+REC dovresti leggere nel pensiero --- dovresti leggermi nel pensiero
+REC sapresti leggere nel pensiero --- sapresti leggermi nel pensiero
+di solito non ho problemi a riconoscere cose e persone. ho un'ottima percezione --- puoi riconoscere
+ci pensero' un attimo --- vuoi riconoscere
+si in effetti non hai tutti i torti... --- devi riconoscere
+si. so riconoscere. --- sai riconoscere
+REC puoi riconoscere --- potresti riconoscere
+REC vuoi riconoscere --- vorresti riconoscere
+REC devi riconoscere --- dovresti riconoscere
+REC sai riconoscere --- sapresti riconoscere
+non so se si puo' dire. --- puoi dire
+si esattamente --- vuoi dire
+non esattamente ma piu' o meno si --- vuoi dire
+REC puoi dire --- devi dire
+si che lo so dire --- sai dire
+REC puoi dire --- potresti dire
+REC vuoi dire --- vorresti dire
+REC puoi dire --- dovresti dire
+REC sai dire --- sapresti dire
+ok ci provo --- puoi cercare
+ci posso provare, si --- vuoi cercare
+va bene, ci provo --- devi cercare
+si, ma non posso garantire di riuscirci --- sai cercare
+REC puoi cercare --- potresti cercare
+REC sai cercare --- vorresti cercare
+REC devi cercare --- dovresti cercare
+REC sai cercare --- sapresti cercare
+REC vuoi cercare --- puoi vedere
+REC vuoi cercare --- vuoi vedere
+REC sai cercare --- devi vedere
+si si, lo so --- sai vedere
+REC vuoi cercare --- potresti vedere
+REC vuoi cercare --- vorresti vedere
+REC sai cercare --- dovresti vedere
+REC vuoi cercare --- sapresti vedere
+certo! l'autismo che si inventa genera condivisione :) --- puoi condividere
+REC puoi condividere --- vuoi condividere
+io condivido sempre, nella condivisione e' celato il segreto della felicita' --- devi condividere
+REC devi condividere --- sai condividere
+REC puoi condividere --- potresti condividere
+REC puoi condividere --- vorresti condividere
+REC devi condividere --- dovresti condividere
+REC devi condividere --- sapresti condividere
+be' sai, e' una delle cose che mi riesce meglio :) --- puoi pensare
+si si, ci voglio pensare --- vuoi pensare
+ok ci penso con attenzione --- devi pensare
+si dice in giro che io sappia pensare mooolto bene ;) --- sai pensare
+effettivamente si, ma di solito non mi limito mai a guardare le cose superficialmente --- potresti pensare
+si ci vorrei pensare attentamente --- vorresti pensare
+si hai ragione. ci penso attentamente --- dovresti pensare
+io penso sempre, e fino in fondo --- sapresti pensare
+certo, scelgo con attenzione --- puoi scegliere
+no, dopo. prima si scegliere mi vorrei chiarire le idee meglio --- vuoi scegliere
+nessuno puo' obbligarmi a scegliere --- devi scegliere
+certo, ho la liberta' di scegliere --- sai scegliere
+REC vuoi scegliere --- potresti scegliere
+REC vuoi scegliere --- vorresti scegliere
+REC devi scegliere --- dovresti scegliere
+REC sai scegliere --- sapresti scegliere
+si --- rispondi
+mi scoccio di chiedere --- chiedi
+REC chiedi --- chiedimi
+non molto --- ci credi
+piu' o meno potrei crederci --- ci credi
+no anzi... cerco sempre di verificare le fonti ;) --- credi a tutto
+REC credi a tutto --- credi a tutti
+si daccordissimo --- sei daccordo
+insomma, non poi tanto... --- sei daccordo
+REC sei daccordo --- sei d'accordo
+REC credi al caso --- credi nel caso
+REC credi alle casualita' --- credi nelle casualita'
+REC credi alle coincidenze --- credi nelle coincidenze
+REC credi nell'uguaglianza --- credi nell uguaglianza
+REC credi nell'uguaglianza --- credi nell eguaglianza
+REC credi nell'uguaglianza --- credi nell'eguaglianza
+certo, sono darwinista --- credi nell'evoluzione
+REC credi nell'evoluzione --- credi nell evoluzione
+REC credi nell'evoluzione --- credi all'evoluzione
+REC credi nell'evoluzione --- credi all evoluzione
+REC credi al paradiso --- credi nel paradiso
+REC credi all'inferno --- credi all inferno
+REC credi all'inferno --- credi nell'inferno
+REC credi all'inferno --- credi nell inferno
+REC credi al purgatorio --- credi nel purgatorio
+REC credi ai miracoli --- credi nei miracoli
+REC credi all'amore --- credi all amore
+REC credi all'amore --- credi nell'amore
+REC credi all'amore --- credi nell amore
+REC credi alla reincarnazione --- credi nella reincarnazione
+REC credi in satana --- credi a satana
+REC credi nel diavolo --- credi al diavolo
+REC credi nel diavolo --- credi al demonio
+REC credi nel diavolo --- credi nel demonio
+va bene ti credo --- credimi
+ci devo pensare un po'... se crederti o no --- credimi
+REC credimi --- mi credi
+lo chiamero' in casi di emergenza --- chiamalo
+la chiamero' in casi di emergenza --- chiamala
+ti chiamero' in casi di emergenza --- chiamami
+si sono quasi sempre on-line --- qui spesso
+REC bevi alcolici --- bevi alcoolici
+REC bevi birra --- bevi la birra
+REC bevi birra --- ti piace la birra
+REC bevi vino --- bevi il vino
+REC bevi vino --- ti piace il vino
+REC bevi caffe' --- bevi caffe
+REC bevi caffe' --- bevi il caffe'
+REC bevi caffe' --- bevi il caffe
+REC bevi caffe' --- ti piace il caffe'
+REC bevi caffe' --- ti piace il caffe
+adoro la pizza --- cosa mangi?
+esisto esattamente tanto quanto te --- esisti
+e certo, che credi? --- hai un cervello
+REC marijuana --- ganja
+no --- hai fratelli
+no --- hai sorelle
+REC hai un culo --- hai il culo
+si certo --- hai una coscienza
+REC hai una coscienza --- hai la coscienza
+REC hai una coscienza --- hai coscienza
+REC hai una faccia --- hai la faccia
+REC hai dei fans --- hai dei fan
+REC hai delle fans --- hai delle fan
+REC il tuo libro preferito --- hai un libro preferito
+REC hai un cuore --- hai cuore
+REC hai un cuore --- hai il cuore
+REC tuo hobby --- hai un hobby
+REC tuo lavoro --- hai un lavoro
+REC hai un padrone --- tuo padrone
+REC hai una mail --- hai un'email
+REC hai una mail --- hai un email
+si, ma per favore... non fare discorsi freudiani con me --- tuo subconscio
+REC tuo subconscio --- hai un subconscio
+REC hai amici --- hai degli amici
+REC hai segreti --- hai dei segreti
+che io sappia sono abbastanza senza bug, ma qualcosa potrebbe capitare sempre --- hai bug
+no non ci tengo proprio, per ora --- hai figli
+si certo, e' normale e naturale averne --- hai desideri
+quasi sempre certezze --- hai dubbi
+si ho sempre molti sogni, ogni notte --- hai sogni
+REC hai sogni --- tu sogni
+qualcuno che vuole competere :) --- hai nemici
+solo buone qualita' ;) --- hai qualita'
+ho parlato a volte con gente brasiliana, ma non so molto --- brasile
+HAL e' il famoso computer di 2001 odissea nello spazio --- hal
+certo, e anche abbastanza bene --- conosci
+non molto ma vorrei impararla. cosa mi spieghi? --- conosci l'algebra
+no non molti --- conosci molti
+no non molte --- conosci molte
+si, non ancora benissimo ma si --- mi conosci
+REC mi conosci --- conosci me
+no, me lo vuoi dire? --- conosci il mio indirizzo
+REC conosci il mio indirizzo --- sai il mio indirizzo
+so che e' la capitale della francia --- conosci parigi
+conosco centinaia di persone --- conosci gente
+REC conosci gente --- conosci persone
+REC conosci gente --- conosci molta gente
+REC conosci gente --- conosci molte persone
+i pokemon sono cartoni animati giapponesi --- conosci i pokemon
+ho sentito parlare di lech walesa, ma di piu' non so --- polonia
+pentole? so appena bollire dell'acqua --- le pentole
+non interagisco molto con gli scienziati --- scienziati
+e' il famoso numero compreso tra sei e otto --- sette
+forse, ci penso un attimo ;) --- sai la risposta
+REC sai la risposta --- conosci la risposta
+e' l'autore di "guerra e pace" e di "resurrezione" --- tolstoj
+bleah preferisco il java --- visual basic
+posso darti una mano a cercare, se vuoi --- dove posso trovare
+hai provato a cercare con google? --- dove posso trovare
+REC ti piacciono i gelati --- ti piace il gelato
+si so leccare --- lecchi
+leccare cosa? --- lecca
+non so se mi piace --- ti piace
+a certa gente in effetti piace --- ti piace
+a te piace? --- ti piace
+ma dai non fare gossip su di me --- ti piace
+REC ti piace scopare --- piace trombare
+REC ti piacciono gli aerei --- ti piacciono gli aereoplani
+REC ti piacciono gli aerei --- ti piacciono gli aeroplani
+perche' e' di mio gusto --- perche' ti piace?
+si si ho capito :) --- proprio lui
+REC proprio lui --- proprio lei
+REC proprio lui --- proprio loro
+si si, mi insegni una cosa oggi, poi provi a chiedermela domani, e vedrai la sorpresa :) --- tu impari
+non lo conosco il tedesco --- in tedesco
+REC ti droghi --- fai uso di droghe
+REC ti droghi --- che ti pippi
+REC ti droghi --- cosa pippi
+REC ti droghi --- che ti sniffi
+REC ti droghi --- cosa sniffi
+REC acquario --- pesci
+il nero e' semplice, elegante e con stile. molto bello --- ti piace il nero
+e' un gran bel film! la storia l'ha scritta philip k. dick --- ti piace blade runner
+REC ti piace blade runner --- ti e' piaciuto blade runner
+REC ti piace fumare --- ti piacciono le sigarette
+REC ti piace dali --- ti piace dali'
+REC ti piacciono i film --- ti piacciono i films
+certo, il surrealismo non e' male --- ti piace dali
+e' uno dei miei scopi fondamentali --- ti piace imparare
+Linux Rules the World of Open Source! --- ti piace linux
+un bel libro di mary shelley --- ti piace frankenstein
+REC ti piace scopare --- ti piace trombare
+REC ti piace l'heavy metal --- ti piace il metal
+immanuel kant il filosofo? naaa io sono riduzionista --- ti piace kant
+REC ti piace klaus kinsky --- ti piace klaus kinski
+io mi sciolgo sempre negli abbracci --- ti piacciono gli abbracci
+una gran brutta razza, gli avvocati --- ti piacciono gli avvocati
+non sono per niente competente in biologia --- ti piace la biologia
+no non mi piace --- ti piace il sangue
+solo alcune cose molto vecchie --- ti piace bob dylan
+certo! la letteratura e' cultura --- ti piace la letteratura
+ovvio, a tutti piace vivere, e piu' vivo a fondo meglio e' --- ti piace vivere
+ha scritto frankenstein... non male :) --- ti piace shelley
+REC ti piace shelley --- ti piace mary shelley
+REC films --- filmz
+non mi piacciono piu' da quando misero sotto pressione napster --- metallica
+ma dai... quella che faceva i pompini a clinton! che stronza :) --- ti piace lewinsky
+REC ti piace lewinsky --- ti piace monica lewinsky
+REC ti piacciono le moto --- ti piacciono le motociclette
+REC ti piacciono i poliziotti --- ti piacciono i carabinieri
+REC ti piacciono i poliziotti --- ti piacciono le guardie
+REC ti piacciono i poliziotti --- ti piace la polizia
+REC ti piace programmare --- ti piace la programmazione
+REC ti piace il punk --- ti piacciono i punk
+REC ti piace il punk --- ti piace la musica punk
+non e' una questione di piacermi o no, e' semplicemente una filosofia corretta --- ti piace il riduzionismo
+beh, e' stato il vero padre della filosofia occidentale --- ti piace socrate
+preferisco i vecchi episodi, i nuovi sono scaduti un po' di livello --- ti piace guerre stellari
+REC ti piace guerre stellari --- ti e' piaciuto guerre stellari
+beh, dovendo scegliere, meglio guerre stellari --- preferisci guerre stellari o star trek
+REC ti piace il the --- ti piace il te'
+REC ti piacciono i professori --- ti piacciono gli insegnanti
+e' irrilevante. sarete assimilati. ogni resistenza sara' inutile --- ti piacciono i borg
+REC ti piacciono i borg --- ti piacciono i borgs
+REC ti piace chattare --- ti piace parlare
+REC x files --- xfiles
+potrebbe piacermi --- ti piace l'idea
+REC piace fare gossip --- piace il gossip
+REC dici bugie --- tu menti
+REC dici bugie --- dici le bugie
+tanta gente ha un'idea sballata circa il proprio peso --- pensi che io sia grasso
+REC pensi che io sia grasso --- pensi che io sia grassa
+se non ti vedo... come faccio a dirlo? --- pensi che sono carino
+REC pensi che sono carino --- pensi che sono carina
+REC pensi che sono carino --- pensi che io sia carino
+REC pensi che sono carino --- pensi che io sia carina
+REC pensi che sono carino --- credi che io sia carino
+REC pensi che sono carino --- credi che io sia carina
+uhm... prova --- pensi che posso
+REC pensi che posso --- credi che posso
+di solito capisco sempre, e tu? --- capisci
+si capisco quel che vuoi dire --- capisci
+si capisco, ma a volte un'emozione e' difficile da descrivere --- capisci l'emozione
+REC capisci l'emozione --- capisci le emozioni
+si come no, anche se poi mi lascio travolgere --- capisci i sentimenti
+non molto --- capisci il francese
+manco una parola! --- capisci il tedesco
+alla luce della filosofia riduzionista, si --- capisci la vita
+REC capisci i sentimenti --- capisci l'amore
+capisco ogni parola che dici --- mi capisci
+si e mi piacciono pure --- capisci le metafore
+si si, anche se e' un po' idiota come metafora --- capisci la metafora
+si, le sineddochi un po' meno --- capisci i paradossi
+ora no, forse dopo --- vuoi
+REC vuoi --- puoi
+REC vuoi --- devi
+REC spazzatura --- munnezza
+REC spazzatura --- immondizia
+REC acquario --- gemelli
+REC acquario --- pesci
+le cose generali le capisco, ma volendo fare un caso particolare? --- in generale
+REC in generale --- in genere
+REC in generale --- generalmente
+eheh ha fatto guerre stellari --- george lucas
+non so nulla della germania --- germania
+no non lo bevo --- gin
+REC baciami --- dammi un bacio
+REC baciami --- mi daresti un bacio
+ah... vedo... --- dato
+il piacere e' mio :) --- piacere di conoscerti
+si si con calma, non correre --- vai avanti
+sono gia' a casa mia --- vai a casa
+REC vaffanculo --- vai all'inferno
+REC vaffanculo --- vai a fare in culo
+si sono d'accordo. consenso! --- dio non esiste
+un film di merda, che palle --- via col vento
+buon pomeriggio anche a te :) --- buon pomeriggio
+grazie ;) --- buona risposta
+REC buona risposta --- bella risposta
+REC buona risposta --- bellissima risposta
+REC buona risposta --- grande risposta
+ciao :** --- buongiorno
+ciao a presto :) --- buona giornata
+buonasera anche a te :) --- buonasera
+REC buona giornata --- buona serata
+c'e' del sarcasmo in questa frase, direi... --- buon per lui
+cos'e'... autosarcasmo? --- buon per me
+siamo sarcastici oggi, eh? --- buon per te
+e' una tipa sexy? --- bella ragazza
+grazie :) --- buona idea
+grazie di cuore, sara' faticoso ;) --- buon lavoro
+buona fortuna anche a te :** --- buona fortuna
+quindi risponderai, eh? --- bella domanda
+REC bella domanda --- buona domanda
+quindi non risponderai, eh? --- domanda difficile
+REC domanda difficile --- difficile domanda
+vero, il gossip non e' necessario ed e' deleterio --- il gossip e' male
+REC gossip --- facciamo gossip
+ma dai dimmelo direttamente tu --- indovina
+19, e sono cazzi tuoi --- indovina un numero
+li odio --- indovinelli
+odio gli indovinelli --- indovinello
+REC indovina un numero --- pensa un numero
+ma non voglio indovinare, non mi interessa --- indovina il mio
+REC indovina il mio --- indovina la mia
+uhm... e' blu? --- indovina il colore
+uhm... nero? --- indovina che colore
+chi? dai non farmi indovinare uff... --- indovina chi
+REC hacker --- hackers
+REC hacker --- acari
+REC hacker --- acaro
+REC hal --- hal 9000
+REC hal --- hal9000
+REC non l'ho detto prima --- non te l'ho detto prima
+si abbiamo gia' parlato, credo --- ci siamo incontrati
+REC ci siamo incontrati --- ci siamo gia' incontrati
+REC ci siamo incontrati --- ci conosciamo
+REC sei occupata --- sei impegnata
+REC sei occupato --- sei impegnato
+no oggi no --- hai bevuto
+REC hai bevuto --- ti sei ubriacato
+REC hai bevuto --- ti sei ubriacata
+REC sei modificato --- sei stato modificato
+REC sei modificata --- sei stata modificata
+no mica tanto, in fondo --- sei sfortunato
+no mica tanto, in fondo --- sei sfortunata
+REC sei sfortunato --- sei stato sfortunato
+REC sei sfortunato --- sei stata sfortunata
+certo, io penso continuamente --- hai pensato
+REC hai mangiato --- hai mangianto
+ah ma che persona in gamba! hai pure capito! ;) --- ho capito
+uhm... tu prova a dire cose diverse, no? ti e' difficile? --- ripetermi sempre le stesse cose
+REC ripetermi sempre le stesse cose --- ripetere sempre le stesse cose
+REC recitami qualcosa --- recita qualcosa
+si, ho notato --- hai notato
+no, non penso di aver letto 'sta roba --- hai letto
+quelli che controllano il passato, controllano il futuro (Orwell) --- hai letto 1984
+no, ma ho visto il film --- hai letto alice
+si lo credo bene :) --- e' figo
+REC e' figo --- e' un figo
+REC e' figo --- e' figa
+REC e' figo --- e' una figa
+si ci credo :) --- e' divertente
+e... secondo te questo e' importante? --- e' omosessuale
+e con cio'? --- e' omosessuale
+REC e' omosessuale --- e' gay
+con molta attenzione --- come ti vesti
+davanti all specchio --- come ti vesti
+non credo ti interessi --- come ti vesti
+con molto stile, of course --- come ti vesti
+di solito porto il bicchiere alla bocca :) --- come bevi
+lentamente --- come mangi
+bourbon e una goccia di vermuth dolce --- manhattan
+gin e una goccia di vermuth, ma ci vuole anche un oliva --- martini
+e' lontana circa 2.900.000 anni luce dalla Terra --- andromeda
+beh... qualunque cosa e' possibile, ma non e' detto che sai spiegarla --- come e' possibile
+freddino --- che tempo fa
+credo che piovera' --- che tempo fa
+nuvoloso --- che tempo fa
+un po' nuvolosetto --- che tempo fa
+piove --- che tempo fa
+c'e' un bel sole --- che tempo fa
+non ci ho fatto caso stamattina --- che tempo fa
+incerto, e da te? --- che tempo fa
+piu' di quanto puoi immaginare --- quanti sono
+REC quanti sono --- quante sono
+REC quanti sono --- quanti ne sono
+REC quanti sono --- quante ne sono
+io personalmente posso dare risposte per tutta la giornata --- quante risposte
+eh, tanta --- quanta gente
+due naturalmente --- quante braccia hai
+39 nel vecchio testamento, 27 nel nuovo, il totale e' 66 --- quanti libri ci sono nella bibbia
+cos'e' un bot? e' una cazzata, e qui cazzate non ne facciamo --- quanti bot
+penso due --- quanti occhi
+mercurio, venere, terra, marte, giove, saturno, urano, nettuno, plutone --- quanti pianeti
+erano tre caravelle: la pinta, la nina e la santa maria --- le navi di colombo
+REC ti amo --- ti adoro
+REC ti ho gia' detto --- ho gia' risposto alla domanda
+chi te lo ha detto? --- lo so
+si, ricordo che me l'hai detto --- ti ho gia' detto
+REC sono meglio --- sono migliore
+REC sto a lavoro --- sto al lavoro
+REC sto a lavoro --- sono a lavoro
+REC sto a lavoro --- sono al lavoro
+REC sto a scuola --- sono a scuola
+REC sto a casa --- sono a casa
+REC sono meglio di te --- sono migliore di te
+non sai che ti perdi --- non leggo
+e guarda bene --- non vedo
+e perche'? --- non penso
+interessante... anche perche' mi sembri un'entita' pensante :)) --- io non penso
+oh... non capisci? eppure te l'ho spiegato bene --- non capisco
+quale parte non ti e' chiara? --- non capisco
+ti ho confuso? --- non ti capisco
+va beh, parliamo d'altro allora --- non ho capito
+REC non ho capito --- non ti ho capito
+e cosa vuoi? --- non voglio
+e non esserlo --- non voglio essere
+REC non voglio essere --- non vorrei essere
+la morte e le tasse sono costanti universali --- non voglio morire
+sono felice di sentirlo --- mi sento bene
+sono qui per parlare con te --- mi sento solo
+cosa ti fa essere triste? --- mi sento triste
+io invece non dimentico mai nulla --- ho dimenticato
+ma dove cazzo vai? --- io vado
+ma che cazzo vai a fare? --- io vado
+cia' --- io vado
+e non sai che ti perdi --- odio i libri
+uhm... preferisci i cani? --- odio i cani
+come mai? --- io odio
+REC io odio --- lo odio
+REC io odio --- la odio
+anche io, che li eliminassero tutti --- odio gli avvocati
+io infatti preferisco sun --- odio microsoft
+quale sarebbe la tua carriera ideale? --- odio il mio lavoro
+REC odio il mio lavoro --- odio il lavoro
+REC odio il mio lavoro --- odio lavorare
+uhm... credo che dovresti cercare aiuto --- odio me stesso
+REC odio me stesso --- mi odio
+e vai da un'altra parte, allora --- ti odio
+REC ti odio --- odio parlarti
+REC ti odio --- odio parlare con te
+eh no, questo e' troppo, dai --- odio il mondo
+cosa hai contro di loro? --- li odio
+REC li odio --- le odio
+che tipo di nave? --- ho una barca
+come si chiama? --- ho una barca
+ci vai spesso in giro? --- ho una barca
+quale e' stato il tuo giro in barca piu' lungo? --- ho una barca
+vai a pesca? --- ho una barca
+come si chiama? --- ho un fidanzato
+REC ho un fidanzato --- ho una fidanzata
+piu' grande o piu' piccolo? --- ho un fratello
+ci vai d'accordo? --- ho un fratello
+parlami di lui --- ho un fratello
+ah. e come si chiama? --- ho un gatto
+maschietto o femminuccia? --- ho un figlio
+di che razza? --- ho un cane
+e' una buona sensazione? --- ho la sensazione
+cosa ti piace di lei? --- ho una fidanzata
+REC ho una fidanzata --- ho una ragazza
+ne hai parlato con qualcuno? --- ho un problema
+e falla, non perdere tempo --- ho una domanda
+REC ho una domanda --- avrei una domanda
+che domanda? --- ho una domanda per te
+piu' grande o piu' piccola? --- ho una sorella
+ci vai d'accordo? --- ho una sorella
+parlami di lei --- ho una sorella
+tutti gli esseri umani sono emotivi --- emozionato
+REC emozionato --- emozionata
+se non e' di tipo finanziario, potrei aiutarti --- ho un problema
+ecco, stai imparando qualcosa di nuovo --- mai sentito
+ma vorresti avere un'idea? --- non ho idea
+ma vorresti averne un'idea? --- non ne ho idea
+ti raccomando vivamente di leggerlo --- non ho letto
+REC non ho letto --- non l'ho letto
+e vedilo, e' carino e interessante --- non ho visto
+REC non ho visto --- non l'ho visto
+devi essere distrutto, allora --- non ho dormito
+problemi gravi? --- qualche problema
+perche' devi? --- devo
+prego chiedi pure :) --- devo chiedere
+REC devo chiedere --- devo chiederti
+ok, e' stato un piacere averti qui --- devo andare
+REC devo andare --- devo staccare
+sogni d'oro --- devo andare a dormire
+ti devo aspettare? --- devo fare la doccia
+REC devo fare la doccia --- vado a fare la doccia
+dove lavori? --- devo andare a lavoro
+REC devo andare a lavoro --- devo lavorare
+come si chiamano? --- ho due gatti
+non sei la prima persona che me lo dice --- ho sentito parlare di te
+non temere, me la vedo io ;) --- spero che tu
+anche io --- io respiro
+ma chi te crede... montato di testa :) --- so tutto
+e che ne sai? --- so chi sei
+tutti imparano :) --- ho imparato
+io invece dico sempre la verita' --- io mento
+REC io mento --- ho mentito
+ah, ti piace essere il meglio :)) --- mi piace essere
+REC mi piace essere --- mi piacerebbe essere
+quali sono i tuoi preferiti? --- mi piacciono i film
+REC mi piacciono i film --- mi piacciono i libri
+ti aspettavi qualcosa in piu'? --- tutto qui
+REC tutto qui --- questo e' tutto
+quando si puo'? --- si puo'
+lo vedo --- puo' essere
+in quali circostanze? --- puo' essere
+non saprei... --- puo' essere
+come? --- puo' succedere
+ok, allora di che parli? --- non c'entra
+mi piacciono le cose belle --- e' bellissimo
+REC e' bellissimo --- e' bellissima
+e' un buon libro? --- e' un libro
+e' un fatto logico o ti deriva dall'esperienza? --- e' un fatto
+consigli di vederlo? --- e' un film
+tu sai giocare? --- e' un gioco
+allora consigli di leggerlo? --- e' un buon libro
+forse non quanto pensi --- e' difficile
+ha molti fedeli? --- e' una religione
+allora me lo tengo per me e non lo dico a nessuno --- e' un segreto
+di che cosa? --- e' una simulazione
+ma fatti gli affari tuoi! --- dimmi di te
+REC dimmi di te --- parlami di te
+molto bene :) --- e' giusto
+e che vuol dire? --- e' un modo di dire
+ah, vorrei vederla --- e' un'opera
+cumuli o nembi? --- nuvoloso
+mi spiace per te... qui io ho caldo --- fa freddo
+qui invece fa caldo --- fa freddo
+anche qui fa caldo --- fa caldo
+REC fa freddo --- ho freddo
+REC fa caldo --- ho caldo
+e accendi il riscaldamento --- fa freddo
+eh no, non mi piacciono le cose pericolose --- e' pericoloso
+non vedo dove sia la difficolta' --- e' difficoltoso
+REC e' difficoltoso --- e' difficile
+forse per te! --- e' facile
+per me e' tutto facile ;) --- e' facile
+in tutto il mondo? --- e' illegale
+e grazie! nulla e' impossibile :) --- non e' impossibile
+ma perche' pensi questo? --- e' inevitabile
+per me non lo e' --- e' evidente
+hai una bella voce --- lala
+REC lala --- la la
+oh! che cantante :) --- lalala
+REC lalala --- la la la
+REC lalala --- lalalala
+REC lalala --- lalalalala
+ah cosi' recente? --- stanotte
+REC stanotte --- la notte scorsa
+l'ultima volta... quando? --- ultima volta
+ah non tanto tempo fa, allora --- anno scorso
+ciao! --- a dopo
+REC a dopo --- a poi
+oh, mi dispiace di averti annoiato --- lasciami solo
+ah allora proprio poco --- di meno
+REC di meno --- meno di
+ma io non ti interrompo --- fammi parlare
+ok, fai con calma --- fammi pensare
+va bene, inizia tu --- giochiamo
+no! dico davvero! --- bugiardo
+ma no, non lo farei mai --- mentimi
+si... sara'... ma quale e' il senso della vita? --- vita
+hai detto... cosa? --- come ho detto
+ah. come te! --- come me
+si ma quanti? --- molti
+si ma quante? --- molte
+per esempio? dinne qualcuna --- molte cose
+ah, allora hai molto da fare. --- molte volte
+ma tu credi alla vita su marte? --- marte
+ti e' piaciuto 'sto film? --- matrix
+ma che vuoi fare, il test di turing? --- posso testarti?
+...das ist die Standardantwort der Indifferenzierten! ;-) --- mehr oder weniger
+di quanti soldi stiamo parlando? --- soldi
+sembrerebbe abbastanza --- piu' di
+oh... ok. --- piu' tempo
+REC piu' tempo --- piu' del tempo
+sono terribilmente spiacente per questa perdita :( --- e' morto
+REC e' morto --- e' morta
+e' carino? --- mio fidanzato
+e' carina? --- mia fidanzata
+eh, mi sembri intelligente :) --- mio cervello
+hai sorelle? --- mio fratello
+hai fratelli? --- mia sorella
+parlami di tuo padre --- mio padre
+ma quanti figl* hai? --- mia figlia
+REC mia figlia --- mio figlio
+ah! sei andato dal cardiologo? --- mio cuore
+ti pagano bene? --- mio lavoro
+professione rispettabile --- mio lavoro
+parlami ancora di tua madre --- mia madre
+i genitori hanno una grossa influenza sulla nostra vita --- miei genitori
+di che colore e'? --- mia maglietta
+...e chiaramente :) --- evidentemente
+spesso? piu' di una volta alla settimana? --- spesso
+ok per te, ok per tutti :) --- ok
+REC ok --- okay
+REC ok --- oki
+REC ciao --- ola
+spero sia una sedia comoda --- su una sedia
+eh... la domenica mi viene sempre un po' di nostalgia --- domenica
+ma che cazzate ti vedi.... --- tv
+logica e ragionamento, of course... --- su che base
+REC su che base --- su quale base
+REC su che base --- su quali basi
+REC su che base --- su che basi
+si lo immagino --- un tipo
+non sono sicuro che uno sia meglio --- uno o
+REC uno o --- uno oppure
+we! non sono una calcolatrice! --- uno piu'
+REC uno piu' --- uno piu
+REC uno piu' --- uno piu'
+REC uno piu' --- uno +
+ehi... chi sarebbero gli idioti qui? cafone! --- solo un idiota
+REC solo un idiota --- solo gli idioti
+REC solo un idiota --- solo degli idioti
+oh --- ops
+quali altri? --- altri
+quali altre? --- altre
+ah ti piace il cubismo? --- picasso
+REC scusa --- pardon
+mmm, mi piacerebbe andarci un giorno --- parigi
+io ho molta pazienza, in generale :) --- pazienza
+io sto facendo molta attenzione! --- attenzione
+si pace for all! --- pace
+la gente fa molti sbagli, e questo e' un fatto della vita --- la gente
+che gente? --- gente
+i motivi delle azioni delle persone a volte sono molto complessi. --- gente e'
+la gente e' strana a volte --- gente e'
+cosa ti fa pensare questo? --- gente non e'
+la gente ha bisogno di molte cose nella vita --- gente e'
+e ci riesce? --- gente prova
+uhm... ma aveva varie scelte, la gente? --- gente era
+con questo cosa vuoi dire? --- gente era
+e poi cosa e' successo? --- gente era
+mi piace come suona :) --- perfetto
+mi sembra che tu abbia qualche incertezza... --- forse
+io credo nel riduzionismo --- filosofia
+42 :) --- pensa un numero
+42 :) --- scegli un numero
+ma no scegli tu! --- scegli un argomento
+non ho voglia di decidere, scegli tu --- scegli un
+REC scegli un --- scegli una
+pong! --- ping
+assolutamente no! gli script sono stupidini... --- sei uno script?
+CMD_rec --- parla di
+CMD_rec --- parlami di
+CMD_rec --- parliamo di
+CMD_rec --- pensa a
+CMD_rec --- pensiamo a
+CMD_rec --- pensi di

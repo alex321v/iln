@@ -3,7 +3,6 @@ package com.legrand.iln;
 import java.io.*;
 import java.util.*;
 
-/* $Id: RobotUtils.java,v 1.4 2003/06/02 20:44:33 legrand Exp legrand $ */
 
 /**
  * Progetto ILN
@@ -29,8 +28,8 @@ import java.util.*;
  * per gli ILN.
  *
  * @author Monsieur Legrand
- * @version 1.4 rev 0
- * @date   02 giugno 2003
+ * @version 1.45rev 0
+ * @date   05 agosto 2017
  */
 
 public class RobotUtils {

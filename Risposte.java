@@ -167,7 +167,7 @@ public class Risposte implements Animatore
 	if (!nomi.contains(nick)){
 	     risposta[0] = nick + ": non ti conosco. Ciao, chi sei?";
 	     nomi.add(nick);
-	     RobotUtils.aggiungiNome(nickName + "nomi", nick);
+	     RobotUtils.aggiungiNome("./resources/" + nickName + "nomi", nick);
 	     handShacking.add(nick);
 	}
 	//testiamo se e' la prima cosa che viene detta al programma
@@ -232,7 +232,7 @@ public class Risposte implements Animatore
 	String imparata = newKey.toLowerCase() + " --> " + newPhrase.toLowerCase();
     	imparate.add(imparata);
 	//log.logga ("scrivo nel file + " + salvataggio);
-	RobotUtils.aggiungiNome(nickName, salvataggio);
+	RobotUtils.aggiungiNome("./resources/" + nickName, salvataggio);
 	//log.logga ("ho scritto nel file " + salvataggio);
     }
 

@@ -75,7 +75,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
     		if (update.hasMessage() && update.getMessage().hasText()) {
         		// Set variables
 			long chat_id = update.getMessage().getChatId();
-			prefix = new Long(chat_id).toString();
+			prefix = update.getMessage().getFrom().getUserName();
 			if (debug) {
 				log.logga("prefix = " + prefix);
 			}
@@ -83,11 +83,13 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 			if (debug) {
 				log.logga("params = " + params);
 			}
+			log.logga(prefix + ": " + params);
 
 	       		response = trattaPrivMsg(prefix, params);
         		
         		
 			for (int i=0; i<response.length; i++) {
+				log.logga("Risposta " + i + ": " + response[i]);
  		       		SendMessage message = new SendMessage() // Create a message object object
                 			      		.setChatId(chat_id)
                 			      		.setText(response[i]);
@@ -125,9 +127,9 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	    	String toNick = prefix;
 	    	if (learningTable.containsKey(toNick))
 	    	   if (((String)learningTable.get(toNick)).equals("begin_learn"))
-	    	      learn2(toNick, params);
+	    	      response = learn2(toNick, params);
 	    	   else
-	    	      learnEnd(toNick, params);
+	    	      response = learnEnd(toNick, params);
 	    	else {
 	    	    String k2 = tok.nextToken();
 	    	    if (k2.equals(":versione")){
@@ -151,9 +153,10 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	       	    }
 	            else {
 	       	        response = analisi.generation(toNick, params, 1);
-	       	        if (response != null){
+	       	        if (response != null && response[0] !=  "learn"){
 	       	           if (response[0].indexOf("CMD") > -1){
-	       	           	 nRes =  2;
+	       	           	 //log.logga("command = true");
+				 nRes =  2;
 	       	                 response = analisi.esegueComando(response[0], params, nRes);
 	       	                 command = true;
 	       	           }
@@ -163,11 +166,14 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	       	           if (command){
 	       	              	nRes = 1;
 	       	              	command = false;
+				//log.logga("command = false");
 	       	              }
 	       	           }
 	       	           else {
+			       log.logga("Entrato nell'else del learn");
 	       	     	       learningTable.put(toNick, "begin_learn");
 	       	     	       response[0] = toNick + " Non so cosa significhi. La parola chiave quale è?";
+			       log.logga("Settato " + response[0]);
 			       return response;
 	                   }
 	       	         }
@@ -198,6 +204,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	   String[] response = new String[3];
            int k = params.indexOf(":");
            String newKeyWord   = params.substring(k+1).trim();
+	   log.logga ("Siamo in leanr2");
            if (newKeyWord.indexOf(nickName) >-1 ){ //okkio! Stanno tentando l'hack del nome!
 	        response[0] = "No no non puoi darmi come chiave qualcosa con il mio nome...";
 		response[1] = "poi va a finire che quando la gente mi invoca io rispondo così";
@@ -205,9 +212,13 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 		learningTable.remove(toNick);
            }
 	   else {
+	      log.logga("Siamo nell'else di learn2");
 	      learningTable.put(toNick, newKeyWord);
-              response[0] = ("Mi dici una bella frase che riguarda ciò? Io la imparo.");
+              response[0] = "Mi dici una bella frase che riguarda ciò? Io la imparo.";
+	      response[1] = "Dai, una cosa simpatica...";
+	      response[2] = "Fammi migliorare..."; 
            }
+	   log.logga("response[0] dopo l'else: " + response[0]);
 	   return response;
 	}
 	   
@@ -223,6 +234,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	    //Controllo bug di gi0
 	    if (newKeyWord.equals("") || newPhraseLearned.equals("")){
 		response[0] = "Ehi mica vorrai fregarmi con qualche stupido hack... sei un lamer :))";
+		response[1] = "Non provarci più!";
 	    }
 	    else {
 	    	response[0] = "Ho capito: " + newKeyWord + " " + newPhraseLearned;

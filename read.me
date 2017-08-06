@@ -5,3 +5,84 @@ Per accedere alla libreria, ho usato Maven di Apache.org.
 Per il supporto delle emoj occorre la seguente libreria: https://github.com/vdurmont/emoji-java anche questo un normale JAR da mettere nel classpath.
 Con questa modifica, il bot può rispondere con un qualsiasi emoj contenuto nell'elenco ufficiale --> http://emojipedia.org/
 Se nella risposta del bot c'è il codice :smile: il software automaticamente fa la conversione unicode e invia verso la chat telegram la faccina che sorride, e così via per tutti gli emoticon. Pertanto basta inserire nelle frasi della base di conoscenza il codice dell'emoj che si vuole inserire.
+
+Progetto di automa a stati finiti dotato di riconoscimento
+automatico del linguaggio naturale umano e di generazione
+autonoma di risposte.
+KeyWord: Artificial Intelligence
+Maggiori informazioni: <http://iln.ppcnerds.org>
+Documentazione storica e tecnica su questo e progetti
+simili: <http://iln.ppcnerds.org/iln.html>
+
+
+Versione 1.4.3
+
+by Monsieur Legrand
+legrand@ppcnerds.org
+
+Rilascio del 08 aprile 2004
+
+LICENZA
+Rilascio da intendersi sotto licenza GPL.
+La licenza è visibile alla URL: <http://www.gnu.org>
+Una copia della licenza è inclusa in questa distribuzione,
+assieme ad una traduzione italiana (non ufficiale).
+
+TARGET
+Platform-independent
+
+PREREQUISITI
+L'esecuzione richiede la presenza di una Java Virtual Machine
+(Java Runtime) versione 1.7.1 o successiva.
+Lo sviluppo richiede JDK Standard Edition versione 1.7.1 o
+successiva.
+Sia il Java Runtime sia il JDK sono disponibili gratuitamente su
+http://java.sun.com
+La versione per Telegram richiede anche la presenza di una connessione di rete.
+
+COMPILAZIONE
+Nella directory src digitare:
+
+javac *.java -d ../bin
+Nella directory bin digitare:
+touch <nomeILN>nomi.txt
+touch motd.txt
+touch <nomeILN>.txt
+
+Si consiglia VIVAMENTE di non lasciare vuoti questi files:
+in <nomeILN>nomi.txt inserire almeno il nick del botmaster
+(il tuo nick!)
+in <nomeILN>.txt inserire almeno una coppia stimolo/risposta,
+ad esempio
+ciao --- ciao
+in motd.txt digitare il messaggio di benvenuto, un saluto che
+l'ILN emette appena acceso.
+
+ESECUZIONE
+Per client su macchina locale:
+
+java TestClient <nick> <debug>
+
+dove debug = 1 - più messaggi in log. debug = 0 - meno messaggi
+
+Per client Telegram:
+
+java com.legrand.iln.TelegramClient <nick> <debug>
+
+Per quanto riguarda la personalita', attualmente il codice viene rilasciato
+solo con il file di conoscenza di base. E' compito dell'utente aggiungere
+almeno una personalita' al progetto.
+E' in fase di sviluppo il manuale per la realizzazione di personalita'.
+Probabilmente, nei prossimi rilasci sara' inclusa una personalita' di prova.
+
+BUGS
+Inviare dettagliati report di ogni bug a legrand@disadattati.org
+
+CREDITS
+Per quanto riguarda la realizzazione del software, magari ce ne fossero.
+Forse un giorno ce ne saranno ;-)
+
+CODERS:
+Monsieur legrand <legrand@disadattati.org>
+Gx <gx@mortemale.org>
+

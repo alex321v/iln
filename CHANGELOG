@@ -1,0 +1,46 @@
+1.5.0
+***
+
+* Prima nuova release dopo 10 anni di ILN 1 *
+
+ - Aggiunto il client Telegram.
+ - Inizio dismissione del client IRC
+ - Il client Telegram accetta ed emette emoj, anche in learning.
+
+1.4.3
+***
+
+* Ultima release stabile della versione ILN 1 *
+
+ - Aggiunto l'autorejoin in caso di kick dal canale
+ - Aggiunta temporizzazione nella risposta nel client IRC in modo da aumentare
+   il tempo di risposta proporzionalmente alla lunghezza della stessa.
+
+1.4.2
+****
+ - Aggiunto un controllo nel client IRC per evitare il loop nel dialogo 
+   tra due ILN
+ - Aggiunta la ricorsione grammaticale per migliorare il riconoscimento
+   delle frasi
+ - Aggiunta funzionalita' di elencazione delle ultime cose imparate grazie
+   alla segnalazione di Spanisheyes.
+ - Risolto un bug nel client locale che mandava in segmentation fault il
+   software, grazie alla segnalazione di d3c3p7i0n.
+
+1.4.1
+****
+ - Cambiato il messaggio nella richiesta di learning
+ - Fixato un bug in Risposte.java che faceva emettere qualche "null"
+ - Spostato il caricamento dati a monte della connessione. Serve per evitare
+   i ping timeout all'avvio.
+ - fixato il bug del nome! Prima del fixing, un utente malizioso poteva
+   entrare in learning ed immettere come parola chiave il nickname dell'ILN,
+   facendogli poi eseguire come risposta sue frasi arbitrarie!
+ - fixato il pericoloso bug che permetteva ad un utente generico di impartire
+   l'ordine di arresto programma.
+ - migliorato il logging.
+
+1.4
+****
+ - Prima release stabile: nascita del ChangeLog
+

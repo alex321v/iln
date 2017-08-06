@@ -37,6 +37,7 @@ import org.telegram.telegrambots.api.methods.*;
 import org.telegram.telegrambots.api.methods.send.*;
 import org.telegram.telegrambots.exceptions.*;
 import org.telegram.telegrambots.updateshandlers.*;
+import com.vdurmont.emoji.EmojiParser;
 
 public class TelegramIlnBot extends TelegramLongPollingBot {
 	
@@ -76,23 +77,22 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
         		// Set variables
 			long chat_id = update.getMessage().getChatId();
 			prefix = update.getMessage().getFrom().getUserName();
-			if (debug) {
-				log.logga("prefix = " + prefix);
+
+			if(prefix==null) {
+				prefix = update.getMessage().getFrom().getFirstName();
 			}
+
 	       		params = nickName + " :" + update.getMessage().getText().toLowerCase().trim();
-			if (debug) {
-				log.logga("params = " + params);
-			}
-			log.logga(prefix + ": " + params);
+			log.logga(prefix +": " + update.getMessage().getText().toLowerCase().trim());
 
 	       		response = trattaPrivMsg(prefix, params);
         		
         		
 			for (int i=0; i<response.length; i++) {
-				log.logga("Risposta " + i + ": " + response[i]);
+				log.logga(nickName + ": " + response[i]);
  		       		SendMessage message = new SendMessage() // Create a message object object
                 			      		.setChatId(chat_id)
-                			      		.setText(response[i]);
+                			      		.setText(EmojiParser.parseToUnicode(response[i]));
         			try {
             				sendMessage(message); // Sending our message object to user
         			} catch (TelegramApiException e) {
@@ -170,10 +170,10 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	       	              }
 	       	           }
 	       	           else {
-			       log.logga("Entrato nell'else del learn");
+			       //log.logga("Entrato nell'else del learn");
 	       	     	       learningTable.put(toNick, "begin_learn");
 	       	     	       response[0] = toNick + " Non so cosa significhi. La parola chiave quale è?";
-			       log.logga("Settato " + response[0]);
+			       //log.logga("Settato " + response[0]);
 			       return response;
 	                   }
 	       	         }
@@ -204,7 +204,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	   String[] response = new String[3];
            int k = params.indexOf(":");
            String newKeyWord   = params.substring(k+1).trim();
-	   log.logga ("Siamo in leanr2");
+	   //log.logga ("Siamo in leanr2");
            if (newKeyWord.indexOf(nickName) >-1 ){ //okkio! Stanno tentando l'hack del nome!
 	        response[0] = "No no non puoi darmi come chiave qualcosa con il mio nome...";
 		response[1] = "poi va a finire che quando la gente mi invoca io rispondo così";
@@ -212,13 +212,13 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 		learningTable.remove(toNick);
            }
 	   else {
-	      log.logga("Siamo nell'else di learn2");
+	      //log.logga("Siamo nell'else di learn2");
 	      learningTable.put(toNick, newKeyWord);
               response[0] = "Mi dici una bella frase che riguarda ciò? Io la imparo.";
 	      response[1] = "Dai, una cosa simpatica...";
 	      response[2] = "Fammi migliorare..."; 
            }
-	   log.logga("response[0] dopo l'else: " + response[0]);
+	   //log.logga("response[0] dopo l'else: " + response[0]);
 	   return response;
 	}
 	   

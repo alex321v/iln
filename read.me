@@ -1,3 +1,7 @@
 README.
 Per l'accesso alle API Telegram sto usando la libreria jar TelegramBots --> https://github.com/rubenlagus/TelegramBots
 Per accedere alla libreria, ho usato Maven di Apache.org.
+
+Per il supporto delle emoj occorre la seguente libreria: https://github.com/vdurmont/emoji-java anche questo un normale JAR da mettere nel classpath.
+Con questa modifica, il bot può rispondere con un qualsiasi emoj contenuto nell'elenco ufficiale --> http://emojipedia.org/
+Se nella risposta del bot c'è il codice :smile: il software automaticamente fa la conversione unicode e invia verso la chat telegram la faccina che sorride, e così via per tutti gli emoticon. Pertanto basta inserire nelle frasi della base di conoscenza il codice dell'emoj che si vuole inserire.

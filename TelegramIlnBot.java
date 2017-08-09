@@ -83,13 +83,13 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 			}
 
 	       		params = nickName + " :" + update.getMessage().getText().toLowerCase().trim();
-			log.logga(prefix +": " + update.getMessage().getText().toLowerCase().trim());
+			log.logga(prefix + " --> " + nickName + ": " + update.getMessage().getText().toLowerCase().trim());
 
 	       		response = trattaPrivMsg(prefix, params);
         		
         		
 			for (int i=0; i<response.length; i++) {
-				log.logga(nickName + ": " + response[i]);
+				log.logga(nickName + " --> " + prefix + ": " + response[i]);
  		       		SendMessage message = new SendMessage() // Create a message object object
                 			      		.setChatId(chat_id)
                 			      		.setText(EmojiParser.parseToUnicode(response[i]));

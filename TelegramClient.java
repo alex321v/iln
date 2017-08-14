@@ -6,7 +6,6 @@ import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 
-
 /**
  * Progetto ILN
  * Copyright (C) 2003-2017 Monsieur Legrand
@@ -27,65 +26,63 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
  */
 
 /**
- * Classe che implementa il client specifico per la connessione
- * ad un servizio IRC.
+ * Classe che implementa il client specifico per la connessione ad un servizio
+ * IRC.
  *
  * @author Monsieur Legrand
  * @version 1.5 rev 1
- * @date   04 agosto 2017
+ * @date 04 agosto 2017
  */
 
 public class TelegramClient {
-     String nickName;
-     boolean debug = false;
-     String motd = new String();
-     Analyzer analisi;
-     String tipoResponse;
-     String visitor;
-     BufferedReader in;
-     LogServer log;
+	String nickName;
+	boolean debug = false;
+	String motd = new String();
+	Analyzer analisi;
+	String tipoResponse;
+	String visitor;
+	BufferedReader in;
+	LogServer log;
 
-     Hashtable learningTable = new Hashtable();
+	Hashtable learningTable = new Hashtable();
 
-     /**
-      * Fa partire il client.<BR>
-      * Uso: 
-      * <code>java TestClient nick debugLevel</code><br>
-      */ 
-      public static void main(String[] args)  {
-	boolean ldeb;
-	if (args.length < 2)
-		misuse();
-	String nick = args[0];
-	int aDeb = Integer.parseInt(args[1]);
-	if (aDeb == 1)
-	     ldeb = true;
-	else ldeb = false;
-	
-	// Initialize Api Context
-        ApiContextInitializer.init();
+	/**
+	 * Fa partire il client.<BR>
+	 * Uso: <code>java TestClient nick debugLevel</code><br>
+	 */
+	public static void main(String[] args) {
+		boolean ldeb;
+		if (args.length < 2)
+			misuse();
+		String nick = args[0];
+		int aDeb = Integer.parseInt(args[1]);
+		if (aDeb == 1)
+			ldeb = true;
+		else
+			ldeb = false;
 
-        // Instantiate Telegram Bots API
-        TelegramBotsApi botsApi = new TelegramBotsApi();
+		// Initialize Api Context
+		ApiContextInitializer.init();
 
-        // Register our bot
-        try {
-            botsApi.registerBot(new TelegramIlnBot(nick, ldeb, new LogServer("iln")));
-        } catch (TelegramApiException e) {
-            e.printStackTrace();
-        }
-      }
-        
+		// Instantiate Telegram Bots API
+		TelegramBotsApi botsApi = new TelegramBotsApi();
 
-      /**
-       * Funzione di utilita' invocata se il programma viene fatto partire con un numero
-       * insufficiente di argomenti.
-       */
-      private static void misuse(){
-	  System.out.println("[local:] - Uso: java TestClient <nick> <debug> ");
-	  System.out.println("[local:] -       debug = 1 - più messaggi in log. debug = 0 - meno messaggi");
-	  System.exit(0);
-      }
+		// Register our bot
+		try {
+			botsApi.registerBot(new TelegramIlnBot(nick, ldeb, new LogServer("iln")));
+		} catch (TelegramApiException e) {
+			e.printStackTrace();
+		}
+	}
 
+	/**
+	 * Funzione di utilita' invocata se il programma viene fatto partire con un
+	 * numero insufficiente di argomenti.
+	 */
+	private static void misuse() {
+		System.out.println("[local:] - Uso: java TestClient <nick> <debug> ");
+		System.out.println("[local:] -       debug = 1 - più messaggi in log. debug = 0 - meno messaggi");
+		System.exit(0);
+	}
 
 }

@@ -1,116 +1,133 @@
 package com.legrand.iln;
 
-/**
- * Progetto ILN
- * Copyright (C) 2003-2017 Monsieur Legrand
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * as published by the Free Software Foundation; either version 2
- * of the license, or any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA
- */
-
-/**
- * Classe che implementa il client specifico per la connessione
- * a Telegram.
- *
- * @author Monsieur Legrand
- * @version 1.5 rev 1
- * @date   04 agosto 2017
- */
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Deque;
 import java.util.Hashtable;
+import java.util.Map;
 import java.util.StringTokenizer;
 
 import org.telegram.telegrambots.api.methods.send.SendMessage;
-import org.telegram.telegrambots.api.objects.Update;
-import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 
 import com.vdurmont.emoji.EmojiParser;
 
-public class TelegramIlnBot extends TelegramLongPollingBot {
+import io.undertow.Undertow;
+import io.undertow.server.HttpHandler;
+import io.undertow.server.HttpServerExchange;
+import io.undertow.server.handlers.BlockingHandler;
+import io.undertow.util.Headers;
 
-	String nickName;
-	boolean debug = false;
-	String motd = new String();
-	Analyzer analisi;
-	String tipoResponse;
-	String visitor;
-	LogServer log;
-	
-	public static String token;
+public class HttpServerClient {
 
-	Hashtable learningTable = new Hashtable();
+	private int port;
+	private String host;
+	private String nickName;
+	private Analyzer analisi;
+	private boolean debug = false;
+	private LogServer log;
+
+	private Hashtable learningTable = new Hashtable();
 
 	/**
-	 * Costruttore. Viene invocato automaticamente alla partenza del programma. Non
-	 * c'e' bisogno di effettuare chiamate esplicite.
-	 *
-	 * @param aNick
-	 *            nickname dell'istanza del programma
-	 * @param deb
-	 *            un booleano che indica il livello di debug: true = debug alto,
-	 *            false = debug basso.
+	 * nick debug port host
+	 * 
+	 * @param args
 	 */
-	public TelegramIlnBot(String aNick, boolean deb, LogServer alog) {
-		nickName = aNick;
-		debug = deb;
-		log = alog;
-		analisi = new Analyzer(nickName, debug);
+	public static void main(String[] args) {
+		String nick = args[0];
+		int port = Integer.parseInt(args[2]);
+		String host = args[3];
+		int aDeb = Integer.parseInt(args[1]);
+		boolean ldeb;
+		if (aDeb == 1)
+			ldeb = true;
+		else
+			ldeb = false;
+		new HttpServerClient(port, host, nick, ldeb);
 	}
 
-	@Override
-	public void onUpdateReceived(Update update) {
-		String line = null;
-		String prefix, comando, params;
-		String[] response;
+	public HttpServerClient(int port, String host, String nickname, boolean debug) {
+		this.port = port;
+		this.host = host;
+		this.nickName = nickname;
+		this.debug = debug;
+		this.analisi = new Analyzer(this.nickName, this.debug);
+		this.log = new LogServer("iln");
+		this.start();
+	}
 
-		// We check if the update has a message and the message has text
-		if (update.hasMessage() && update.getMessage().hasText()) {
-			// Set variables
-			long chat_id = update.getMessage().getChatId();
-			prefix = update.getMessage().getFrom().getUserName();
+	private void start() {
 
-			if (prefix == null) {
-				prefix = update.getMessage().getFrom().getFirstName();
+		Undertow server = Undertow.builder()
+				.addHttpListener(this.port, this.host, new BlockingHandler(new MyHttpHandler())).build();
+		server.start();
+
+	}
+
+	private class MyHttpHandler implements HttpHandler {
+
+		@Override
+		public void handleRequest(HttpServerExchange exchange) throws Exception {
+			String body = "";
+			String prefix = "",  params;
+			String messaggio = "";
+			String[] response;
+
+			Map<String, Deque<String>> getParams = exchange.getQueryParameters();
+			if (!getParams.isEmpty()) {
+				prefix = getParams.get("nick").getLast();
+				messaggio = getParams.get("messaggio").getLast();
+				messaggio = java.net.URLDecoder.decode(messaggio, "UTF-8");
+			} else {
+				//messaggio in post TBC
+				BufferedReader reader = null;
+				StringBuilder builder = new StringBuilder();
+
+				try {
+					reader = new BufferedReader(new InputStreamReader(exchange.getInputStream()));
+
+					String line;
+					while ((line = reader.readLine()) != null) {
+						builder.append(line);
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				} finally {
+					if (reader != null) {
+						try {
+							reader.close();
+						} catch (IOException e) {
+							e.printStackTrace();
+						}
+					}
+				}
+
+				body = builder.toString();
 			}
 
-			params = nickName + " :" + update.getMessage().getText().toLowerCase().trim();
-			log.logga(prefix + " --> " + nickName + ": " + update.getMessage().getText().toLowerCase().trim());
+			
+			
+			params = nickName + " :" + messaggio.toLowerCase().trim();
+			log.logga(prefix + " --> " + nickName + ": " + messaggio.toLowerCase().trim());
 
 			response = trattaPrivMsg(prefix, params);
 
 			for (int i = 0; i < response.length; i++) {
 				log.logga(nickName + " --> " + prefix + ": " + response[i]);
-				SendMessage message = new SendMessage() // Create a message object object
-						.setChatId(chat_id).setText(EmojiParser.parseToUnicode(response[i]));
-				try {
-					sendMessage(message); // Sending our message object to user
-				} catch (TelegramApiException e) {
-					e.printStackTrace();
+				body+=response[i];
+				if(i<response.length-1) {
+					body+=" ";
 				}
 			}
+			
+			
+			exchange.getResponseHeaders().add(Headers.CONTENT_TYPE, "text/plain");
+			exchange.getResponseSender().send(body);
+
 		}
-	}
 
-	@Override
-	public String getBotUsername() {
-		return nickName;
-	}
-
-	@Override
-	public String getBotToken() {
-		//return "405806016:AAF-QgVcjcijshxn2USVGrioV1y5lKjijng";
-		return TelegramIlnBot.token;
 	}
 
 	/**
@@ -177,21 +194,6 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 			}
 		}
 		return response;
-	}
-
-	/**
-	 * La documentazione di questa funzione e' la stessa di quella di @see IrcClient
-	 */
-	private String trovaNick(String stringa) {
-		StringBuffer rispostina = new StringBuffer();
-		int i = 1;
-		while (stringa.charAt(i) != '!') {
-			rispostina.append(stringa.charAt(i));
-			i++;
-		}
-
-		return rispostina.toString();
-
 	}
 
 	/**

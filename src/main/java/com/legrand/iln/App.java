@@ -41,7 +41,7 @@ public class App {
 		Option resourceOption = Option.builder().hasArg().desc("path of resources files (default: ./resources/)")
 				.longOpt("resources").build();
 
-		Option clientType = Option.builder("c").hasArg().desc("the type of client: Telegram, Irc, Test")
+		Option clientType = Option.builder("c").hasArg().desc("the type of client: Telegram, Irc, Test, HttpServer")
 				.longOpt("client").required().build();
 
 		Option nickOption = Option.builder("n").hasArg().desc("the bot's nick").longOpt("nick").required().build();

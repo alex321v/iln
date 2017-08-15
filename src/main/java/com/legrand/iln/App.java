@@ -37,6 +37,8 @@ public class App {
 
 		Option debugOption = new Option("d", "print debugging information");
 		debugOption.setLongOpt("debug");
+		
+		Option disableLearningOption = Option.builder().desc("disable learning phase").longOpt("disable-learning").build();
 
 		Option resourceOption = Option.builder().hasArg().desc("path of resources files (default: ./resources/)")
 				.longOpt("resources").build();
@@ -112,7 +114,9 @@ public class App {
 					System.exit(1);
 				}
 			}
-
+			if(line.hasOption("disable-learning")) {
+				Configurations.LEARNING_ENABLES = false;
+			}
 			if (client == null) {
 				formatter.printHelp("java Iln -c <client-type> -n <nick> [options]", options);
 				System.exit(1);

@@ -5,4 +5,6 @@ public class Configurations {
 	public static final String DEFAULT_BASE = "./resources/base.txt";
 	public static final String DEFAULT_MOTD = "./resources/motd.txt";
 	public static final String DEFAULT_IASTEMMA = "./resources/IastemmiaFile.txt";
+	
+	public static boolean LEARNING_ENABLES = true;
 }

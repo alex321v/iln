@@ -89,16 +89,21 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 
 			response = trattaPrivMsg(prefix, params);
 
-			for (int i = 0; i < response.length; i++) {
-				log.logga(nickName + " --> " + prefix + ": " + response[i]);
-				SendMessage message = new SendMessage() // Create a message object object
-						.setChatId(chat_id).setText(EmojiParser.parseToUnicode(response[i]));
-				try {
-					sendMessage(message); // Sending our message object to user
-				} catch (TelegramApiException e) {
-					e.printStackTrace();
-				}
+			if(response != null) {
+				for (int i = 0; i < response.length; i++) {
+					log.logga(nickName + " --> " + prefix + ": " + response[i]);
+					SendMessage message = new SendMessage() // Create a message object object
+							.setChatId(chat_id).setText(EmojiParser.parseToUnicode(response[i]));
+					try {
+						sendMessage(message); // Sending our message object to user
+					} catch (TelegramApiException e) {
+						e.printStackTrace();
+					}
+				}	
+			} else {
+				log.logga("fase di learning saltata");
 			}
+			
 		}
 	}
 
@@ -167,6 +172,9 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 							// log.logga("command = false");
 						}
 					} else {
+						if(!Configurations.LEARNING_ENABLES) {
+							return null;
+						}
 						// log.logga("Entrato nell'else del learn");
 						learningTable.put(toNick, "begin_learn");
 						response[0] = toNick + " Non so cosa significhi. La parola chiave quale è?";

@@ -31,7 +31,7 @@ import java.util.Hashtable;
 import java.util.StringTokenizer;
 
 import org.telegram.telegrambots.api.methods.send.SendMessage;
-import org.telegram.telegrambots.api.objects.Update;
+import org.telegram.telegrambots.api.objects.*;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 
@@ -46,6 +46,8 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	String tipoResponse;
 	String visitor;
 	LogServer log;
+
+	Chat mchat;
 	
 	public static String token;
 
@@ -78,6 +80,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 		if (update.hasMessage() && update.getMessage().hasText()) {
 			// Set variables
 			long chat_id = update.getMessage().getChatId();
+			mchat = update.getMessage().getChat();
 			prefix = update.getMessage().getFrom().getUserName();
 
 			if (prefix == null) {
@@ -172,14 +175,15 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 							// log.logga("command = false");
 						}
 					} else {
-						if(!Configurations.LEARNING_ENABLES) {
-							return null;
+						 if(mchat.isGroupChat()){
+							response[0] = Configurations.NOLEARN;
+							return response;
 						}
-						// log.logga("Entrato nell'else del learn");
-						learningTable.put(toNick, "begin_learn");
-						response[0] = toNick + " Non so cosa significhi. La parola chiave quale è?";
-						// log.logga("Settato " + response[0]);
-						return response;
+						else {
+							learningTable.put(toNick, "begin_learn");
+							response[0] = toNick + " Non so cosa significhi. La parola chiave quale è?";
+							return response;
+						}
 					}
 				}
 			}

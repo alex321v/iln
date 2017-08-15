@@ -81,6 +81,7 @@ public class App {
 		options.addOption(resourceOption);
 		options.addOption(httpServerHost);
 		options.addOption(httpServerPort);
+		options.addOption(disableLearningOption);
 
 		HelpFormatter formatter = new HelpFormatter();
 

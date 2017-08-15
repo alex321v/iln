@@ -7,4 +7,6 @@ public class Configurations {
 	public static final String DEFAULT_IASTEMMA = "./resources/IastemmiaFile.txt";
 	
 	public static boolean LEARNING_ENABLES = true;
+
+	public static final String NOLEARN = "Non so rispondere e posso imparare solo in privato";
 }

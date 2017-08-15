@@ -34,9 +34,9 @@ se tutto è andato bene dovrebbe essere stata creata una cartella *target* con a
 
 ## Esecuzione
 Prima di eseguire Iln è necessario predisporre alcuni file di testo:
- - <nickIln>nomi.txt contenente i nomi degli interlocutori conosciuti. si consiglia di inserire almeno il nick del botmaster (il tuo nick!)
+ - [nickIln]nomi.txt contenente i nomi degli interlocutori conosciuti. si consiglia di inserire almeno il nick del botmaster (il tuo nick!)
  - motd.txt il messaggio di benvenuto, un saluto che l'ILN emette appena acceso.
- - <nickIln>.txt il file di conoscenza di Iln. inserire almeno una coppia stimolo/risposta, ad esempio:
+ - [nickIln].txt il file di conoscenza di Iln. inserire almeno una coppia stimolo/risposta, ad esempio:
 ```
 ciao --- ciao
 ```

@@ -223,7 +223,7 @@ public class App {
 
 		}
 
-		File f_iastemma = new File(Configurations.RESOURCE_PATH, "IastemmaFile.txt");
+		File f_iastemma = new File(Configurations.RESOURCE_PATH, "IastemmiaFile.txt");
 		if (!f_iastemma.exists() || !f_iastemma.isFile()) {
 
 			f_iastemma.createNewFile();

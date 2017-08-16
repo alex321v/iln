@@ -1,8 +1,8 @@
 package com.legrand.iln;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.Properties;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
@@ -87,7 +87,13 @@ public class App {
 
 		// create the parser
 		CommandLineParser parser = new DefaultParser();
+		Properties prop = new Properties();
+		InputStream input = null;
+		
 		try {
+			input = new FileInputStream("config.properties");
+
+			prop.load(input);
 			// parse the command line arguments
 			CommandLine line = parser.parse(options, args);
 
@@ -109,7 +115,7 @@ public class App {
 			if (line.hasOption("resources")) {
 				Configurations.RESOURCE_PATH = line.getOptionValue("resources");
 				System.out.println(Configurations.RESOURCE_PATH);
-				File confFile = new File(Configurations.RESOURCE_PATH);
+				File confFile = new File(prop.getProperty("resource_path"));
 				if (!confFile.isDirectory()) {
 					System.out.println("invalid resources path");
 					System.exit(1);
@@ -123,12 +129,7 @@ public class App {
 				System.exit(1);
 			}
 
-			try {
-				checkForFiles(nick);
-			} catch (IOException e) {
-				e.printStackTrace();
-				System.exit(0);
-			}
+			checkForFiles(nick);
 
 			switch (client) {
 			case "Telegram":
@@ -190,51 +191,82 @@ public class App {
 			// oops, something went wrong
 			formatter.printHelp("java Iln -c <client-type> -n <nick> [options]", options);
 			System.exit(0);
-		}
+                } catch (IOException ex) {
+                        ex.printStackTrace();
+                } finally {
+                        if (input != null) {
+                        try {
+                                      input.close();
+                        } catch (IOException e) {
+                                 e.printStackTrace();
+                        }
+               }
+          }
+
 
 	}
 
-	private static void checkForFiles(String nick) throws IOException {
+	private static void checkForFiles(String nick) {
+		Properties prop = new Properties();
+		InputStream input = null;
 
-		File f_nome = new File(Configurations.RESOURCE_PATH, nick + ".txt");
-		if (!f_nome.exists() || !f_nome.isFile()) {
+		try {
 
-			f_nome.createNewFile();
+			input = new FileInputStream("./config.properties");
 
-		}
+			// load a properties file
+			prop.load(input);
 
-		File f_nomi = new File(Configurations.RESOURCE_PATH, nick + "nomi.txt");
-		if (!f_nomi.exists() || !f_nomi.isFile()) {
+			File f_nome = new File(prop.getProperty("resource_path"), nick + ".txt");
+			if (!f_nome.exists() || !f_nome.isFile()) {
 
-			f_nomi.createNewFile();
+				f_nome.createNewFile();
 
-		}
+			}
 
-		File f_motd = new File(Configurations.RESOURCE_PATH, "motd.txt");
-		if (!f_motd.exists() || !f_motd.isFile()) {
+			File f_nomi = new File(prop.getProperty("resource_path"), nick + "nomi.txt");
+			if (!f_nomi.exists() || !f_nomi.isFile()) {
 
-			f_motd.createNewFile();
-			File f_motd_org = new File(Configurations.DEFAULT_MOTD);
-			FileUtils.copyFile(f_motd_org, f_motd);
+				f_nomi.createNewFile();
 
-		}
+			}
 
-		File f_base = new File(Configurations.RESOURCE_PATH, "base.txt");
-		if (!f_base.exists() || !f_base.isFile()) {
+			File f_motd = new File(prop.getProperty("resource_path"), "motd.txt");
+			if (!f_motd.exists() || !f_motd.isFile()) {
 
-			f_base.createNewFile();
-			File f_base_org = new File(Configurations.DEFAULT_BASE);
-			FileUtils.copyFile(f_base_org, f_base);
+				f_motd.createNewFile();
+				File f_motd_org = new File(prop.getProperty("default_motd"));
+				FileUtils.copyFile(f_motd_org, f_motd);
 
-		}
+			}
 
-		File f_iastemma = new File(Configurations.RESOURCE_PATH, "IastemmiaFile.txt");
-		if (!f_iastemma.exists() || !f_iastemma.isFile()) {
+			File f_base = new File(prop.getProperty("resource_path"), "base.txt");
+			if (!f_base.exists() || !f_base.isFile()) {
 
-			f_iastemma.createNewFile();
-			File f_iasetmma_org = new File(Configurations.DEFAULT_IASTEMMA);
-			FileUtils.copyFile(f_iasetmma_org, f_iastemma);
+				f_base.createNewFile();
+				File f_base_org = new File(prop.getProperty("default_base"));
+				FileUtils.copyFile(f_base_org, f_base);
 
+			}
+
+			File f_iastemma = new File(prop.getProperty("default_base"), "IastemmiaFile.txt");
+			if (!f_iastemma.exists() || !f_iastemma.isFile()) {
+
+				f_iastemma.createNewFile();
+				File f_iasetmma_org = new File(prop.getProperty("default_iastemma"));
+				FileUtils.copyFile(f_iasetmma_org, f_iastemma);
+
+			}
+	} catch (IOException ex) {
+		ex.printStackTrace();
+	} finally {
+		if (input != null) {
+			try {
+				input.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 	}
+   }
 }

@@ -29,6 +29,8 @@ package com.legrand.iln;
  */
 import java.util.Hashtable;
 import java.util.StringTokenizer;
+import java.util.Properties;
+import java.io.*;
 
 import org.telegram.telegrambots.api.methods.send.SendMessage;
 import org.telegram.telegrambots.api.objects.*;
@@ -44,7 +46,7 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 	String motd = new String();
 	Analyzer analisi;
 	String tipoResponse;
-	String visitor;
+	String visitor, nolearn;
 	LogServer log;
 
 	Chat mchat;
@@ -68,6 +70,28 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 		debug = deb;
 		log = alog;
 		analisi = new Analyzer(nickName, debug);
+		
+		Properties prop = new Properties();
+		InputStream input = null;
+		try {
+
+			input = new FileInputStream("config.properties");
+
+			// load a properties file
+			prop.load(input);
+			nolearn = prop.getProperty("nolearn");
+			
+		} catch (IOException ex) {
+			ex.printStackTrace();
+		} finally {
+			if (input != null) {
+				try {
+					input.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
 	}
 
 	@Override
@@ -92,21 +116,16 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 
 			response = trattaPrivMsg(prefix, params);
 
-			if(response != null) {
-				for (int i = 0; i < response.length; i++) {
-					log.logga(nickName + " --> " + prefix + ": " + response[i]);
-					SendMessage message = new SendMessage() // Create a message object object
-							.setChatId(chat_id).setText(EmojiParser.parseToUnicode(response[i]));
-					try {
-						sendMessage(message); // Sending our message object to user
-					} catch (TelegramApiException e) {
-						e.printStackTrace();
-					}
-				}	
-			} else {
-				log.logga("fase di learning saltata");
-			}
-			
+			for (int i = 0; i < response.length; i++) {
+				log.logga(nickName + " --> " + prefix + ": " + response[i]);
+				SendMessage message = new SendMessage() // Create a message object object
+						.setChatId(chat_id).setText(EmojiParser.parseToUnicode(response[i]));
+				try {
+					sendMessage(message); // Sending our message object to user
+				} catch (TelegramApiException e) {
+					e.printStackTrace();
+				}
+			}	
 		}
 	}
 
@@ -151,6 +170,8 @@ public class TelegramIlnBot extends TelegramLongPollingBot {
 				} else if (k2.substring(1).trim().equals(nickName)
 						|| k2.substring(1).trim().equals(nickName.toLowerCase())) {
 					response[0] = "Sì?";
+					response[1] = "Che vuoi?";
+					response[2] = "Non perdere tempo, parla!";
 					return response;
 				} else if (k2.equals(":stop")) {
 					System.out.println("Ordine di arresto programma. Ciao a presto");
